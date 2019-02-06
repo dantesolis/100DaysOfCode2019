@@ -66,7 +66,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 4: 09 Feb. Friday
+### Day 3: 09 Feb. Friday
 
 - ...
 
@@ -78,7 +78,20 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 5: 10 Feb. Sunday
+### Day 4: 10 Feb. Saturday
+
+- ...
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+
+### Day 5: 11 Feb. Sunday
 
 - ...
 
