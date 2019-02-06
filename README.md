@@ -48,7 +48,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** Spent some time setting repos (log + weather-app-node) and getting everything "ready". I have enrolled on this course last year and completed Sections 1 - 3. I had stopped at Section 4. So starting at the beggining of Section 4 again. 💪
 
 **Link to work:**
-  - [weather-node-app]()
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
@@ -66,7 +66,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 3: 03 May. Thursday
+### Day 4: 09 Feb. Friday
 
 - ...
 
@@ -76,6 +76,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** ...
 
+<hr />
+
+### Day 5: 10 Feb. Sunday
+
+- ...
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
 
 
 
