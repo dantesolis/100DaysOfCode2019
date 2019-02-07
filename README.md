@@ -56,11 +56,15 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Today's Progress**:
 
-- ...
+- Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Async example.
 
-- ...
+- Read one page of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+  - `this` All Makes Sense Now
+    - Nothing but rules
+      - [x]  Default Binding
 
-**Thoughts:** ...
+**Thoughts:** Will like to write a blog post after I finish the chapter.
 
 **Link to work:** *See Today's progress*
 
