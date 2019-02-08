@@ -72,13 +72,17 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 3: 09 Feb. Friday
 
-- ...
+**Today's Progress**:
 
-- ...
+- Read 3 (pg 14 -17) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+  - `this` All Makes Sense Now
+    - Nothing but rules
+      - [x] Default Binding
+      - [x] Implicit Binding
 
-**Thoughts:** ...
+**Thoughts:** Will like to write a blog post after I finish the chapter or maybe sooner.
 
-**Link to work:** ...
+**Link to work:** *See Today's progress*
 
 <hr />
 
