@@ -66,7 +66,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Thoughts:** Will like to write a blog post after I finish the chapter.
 
-**Link to work:** *See Today's progress*
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
@@ -82,19 +83,27 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Thoughts:** Will like to write a blog post after I finish the chapter or maybe sooner.
 
-**Link to work:** *See Today's progress*
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)  
 
 <hr />
 
 ### Day 4: 10 Feb. Saturday
 
-- ...
+- Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Call Stack and Event Loop
+  
+- Read 2 (pg 17 - 18) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+  - `this` All Makes Sense Now
+    - Nothing but rules
+      - [x] Default Binding
+      - [x] Implicit Binding
+      - [x] Explicit Binding
 
-- ...
+**Thoughts:** Learnt about implicit vs explicit binding. Thanks to the Udemy course understanding and because I'm happening to be reading the book and doing the course at the same time - **by coincidence** - I'm actually understanding better when and where to spot the `call-site`, `call-stack` of each `fn`, and how all this relates to the `event-loop` and the `node-apis` in Node.
 
-**Thoughts:** ...
-
-**Link to work:** ...
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
