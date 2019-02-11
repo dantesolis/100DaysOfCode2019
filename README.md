@@ -30,11 +30,11 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 0
-  - ...
-
+**Days Xtra to Add:** 1
+  - DAY OFF - 10 Feb. Sunday
+  - 
   ---------------------------
-  Total: 0
+  Total: 1
 
 ## Log
 
@@ -71,7 +71,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 3: 09 Feb. Friday
+### Day 3: 08 Feb. Friday
 
 **Today's Progress**:
 
@@ -88,7 +88,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 4: 10 Feb. Saturday
+### Day 4: 09 Feb. Saturday
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
   - [x] Call Stack and Event Loop
@@ -108,9 +108,33 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 <hr />
 
 
-### Day 5: 11 Feb. Sunday
+### Day 5: 10 Feb. Sunday
 
-- ...
+- DAY OFF
+
+**Thoughts:** DAY OFF
+
+**Link to work:** DAY OFF
+
+<hr />
+
+### Day 6: 11 Feb. Monday
+  
+- Read 2 (pg 18 - 19) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+  - `this` All Makes Sense Now
+    - Nothing but rules
+      - [x] Default Binding
+      - [x] Implicit Binding
+      - [x] Explicit Binding
+        - [x] Hard binding
+
+**Thoughts:** Learnt about explicit binding.
+
+**Link to work:** ...
+
+<hr />
+
+### Day 7: 12 Feb. Tuesday
 
 - ...
 
@@ -120,7 +144,55 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 8: 13 Feb. Wednesday
 
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 9: 14 Feb. Thursday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 10: 15 Feb. Friday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 11: 16 Feb. Saturday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
+
+### Day 12: 17 Feb. Sunday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+<hr />
 
 <hr />
 
