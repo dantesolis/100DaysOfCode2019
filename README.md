@@ -140,7 +140,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Thoughts:** ...
 
-**Link to work:** ...
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
