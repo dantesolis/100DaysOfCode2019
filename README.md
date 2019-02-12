@@ -107,7 +107,6 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-
 ### Day 5: 10 Feb. Sunday
 
 - DAY OFF
@@ -130,13 +129,14 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Thoughts:** Learnt about explicit binding.
 
-**Link to work:** ...
+**Link to work:** None
 
 <hr />
 
 ### Day 7: 12 Feb. Tuesday
 
-- ...
+- Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Callback Functions & APIs
 
 **Thoughts:** ...
 
