@@ -138,7 +138,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
   - [x] Callback Functions & APIs
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
   - [weather-node-app](https://github.com/dantesolis/weather-app-node)
@@ -147,11 +147,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 8: 13 Feb. Wednesday
 
-- ...
+- Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Pretty Printing Objects
+  - [x] What Makes up an HTTP Request
 
-**Thoughts:** ...
+- Read 1 (pg 19 - 20) page of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+      - [x] ...
+      - [x] Explicit Binding
+        - [x] Hard binding cont
 
-**Link to work:** ...
+**Thoughts:** None
+
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
