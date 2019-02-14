@@ -165,7 +165,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 9: 14 Feb. Thursday
 
-- ...
+- Install and set `dotenv` pkg to save and handle API keys on `weather-app-node` tryout node project.
+
+- Read 3 (pg 19 - 21) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
+      - [x] ...
+      - [x] ...
+        - [x] Hard binding cont
+      - [x] New binding
+
+**Thoughts:** None
+
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 **Thoughts:** ...
 
