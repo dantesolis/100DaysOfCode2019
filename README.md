@@ -178,19 +178,29 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Link to work:**
   - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-**Thoughts:** ...
-
-**Link to work:** ...
-
 <hr />
 
 ### Day 10: 15 Feb. Friday
 
-- ...
+- Today consisted on fixing come merge conflicts from the [weather-node-app](https://github.com/dantesolis/weather-app-node) and installing a new api key with MapQuestApi
 
-**Thoughts:** ...
+- Set my goals for my [Personal Growth Roadmap 2019](https://trello.com/c/WKgio367/2-goals-things-i-would-like-to-accomplish-in-this-period)'s 1st trimester (Feb -  Apr)
 
-**Link to work:** ...
+```md
+[ ] 3 Blog Posts
+[ ] 2 Open Source contributions
+[ ] 2 Books about personal stuff
+[ ] 1 Book about programming
+[ ] 1 Website/app possible to use frameworks
+[ ] 1 Website using only VanillaJS and CSS3 no frameworks
+[ ] 1 script | pkg that must be published to npm
+[ ] 1 Design | Prototype in FramerX.
+[ ] 1 Udemy Course about programming or design.
+```
+
+**Thoughts:** Not too much coding today. 
+
+**Link to work:** See today's progress
 
 <hr />
 
