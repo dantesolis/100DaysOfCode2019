@@ -182,9 +182,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 10: 15 Feb. Friday
 
-- Today consisted on fixing come merge conflicts from the [weather-node-app](https://github.com/dantesolis/weather-app-node) and installing a new api key with MapQuestApi
+- Today consisted on fixing come merge conflicts from the [weather-node-app](https://github.com/dantesolis/weather-app-node) and installing a new api key with MapQuestApi.
 
-- Set my goals for my [Personal Growth Roadmap 2019](https://trello.com/c/WKgio367/2-goals-things-i-would-like-to-accomplish-in-this-period)'s 1st trimester (Feb -  Apr)
+- Set my goals for my [Personal Growth Roadmap 2019](https://trello.com/c/WKgio367/2-goals-things-i-would-like-to-accomplish-in-this-period)'s 1st trimester (Feb - Apr)
 
 ```md
 [ ] 3 Blog Posts
@@ -206,21 +206,22 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 11: 16 Feb. Saturday
 
-- ...
+- Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
+  - [x] Encoding User Input
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 <hr />
 
 ### Day 12: 17 Feb. Sunday
 
-- ...
+- DAY OFF
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF
 
-**Link to work:** ...
+**Link to work:** DAY OFF
 
 <hr />
 
