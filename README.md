@@ -32,9 +32,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Days Xtra to Add:** 1
   - DAY OFF - 10 Feb. Sunday
-  - 
+  - DAY OFF - 16 Feb. Sunday
   ---------------------------
-  Total: 1
+  Total: 2
 
 ## Log
 
