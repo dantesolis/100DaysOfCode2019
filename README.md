@@ -239,9 +239,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 14: 19 Feb. Tuesday
 
-- ...
+- Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
+  - [x] Abstracting Callbacks
 
-- ...
+**Thoughts:** None
+
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 **Thoughts:** None
 
