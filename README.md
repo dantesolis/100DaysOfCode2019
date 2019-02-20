@@ -247,23 +247,17 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Link to work:**
   - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-**Thoughts:** None
-
-**Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
-
 <hr />
 
 ### Day 15: 20 Feb. Wednesday
 
-- ...
-
-- ...
+- Worked on a FramerX styleguide and "Coming Soon" page prototype for a friend's site.
+  - [x] Defined and created the Color Palette (Using Google Material Design) as inspiration/ref.
 
 **Thoughts:** None
 
 **Link to work:**
-  - ...
+  - Will be publishing to Uplabs and/or Dribble once the StyleGuide is done. Site code to be hosted on gitlab.
 
 <hr />
 
