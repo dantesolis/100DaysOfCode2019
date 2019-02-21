@@ -263,9 +263,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 16: 21 Feb. Thursday
 
-- ...
-
-- ...
+- Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
+  - [x] Abstracting Callbacks
 
 **Thoughts:** None
 
