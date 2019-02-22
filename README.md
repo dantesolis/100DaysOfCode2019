@@ -269,20 +269,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - ...
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
 ### Day 17: 22 Feb. Friday
 
-- ...
-
-- ...
+- Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
+  - [x] Chaining Callbacks
 
 **Thoughts:** None
 
 **Link to work:**
-  - ...
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
 <hr />
 
