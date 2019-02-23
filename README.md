@@ -285,4 +285,27 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 18: 23 Feb. Saturday
+
+- Worked on a friend's site/business.
+  - [x] Created Business Card on Sketch. 
+
+**Thoughts:** First time using sketch app and getting my feet wet with the tool. Need to practice more.
+
+**Link to work:**
+  - Once it's finished and approved. Design will go to the sketch cloud.
+
+<hr />
+
+### Day 19: 24 Feb. Sunday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
