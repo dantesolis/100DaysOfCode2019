@@ -308,4 +308,28 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 20: 25 Feb. Monday
+
+- Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
+  - [x] ES6 Promises
+
+**Thoughts:** None
+
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+
+<hr />
+
+### Day 21: 26 Feb. Tuesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+
 Made with ❤️ &copy; 2019 D/S 💯
