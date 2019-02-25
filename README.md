@@ -313,6 +313,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
   - [x] ES6 Promises
 
+- Read 4pg YDKJS Book 3 (pg22 - 26) 
+  - [x] Rules of `this`
+
 **Thoughts:** None
 
 **Link to work:**
