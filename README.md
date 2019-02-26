@@ -314,7 +314,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - [x] ES6 Promises
 
 - Read 4pg YDKJS Book 3 (pg22 - 26) 
-  - [x] Rules of `this`
+  - [x] Everything in order: Rules of `this`
 
 **Thoughts:** None
 
@@ -325,12 +325,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 21: 26 Feb. Tuesday
 
-- ...
+- Read 3pgs YDKJS Book 3 (26 - 29) 
+  - [x] Determining `this`: Rules of `this`
+  ```js
+    // order of priority for determining what `this` refers to on  
+    // call-site
+    new binding => explicit binding => implicit binding => default binding
+  ```
+  - [x] Binding exceptions
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
