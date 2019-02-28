@@ -355,6 +355,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 23: 28 Feb. Thursday
 
+- Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
+  - [x] Weather App With Promises
+  - [x] Extra Features
+
+**Thoughts:** None
+
+**Link to work:**
+  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+<hr />
+
+### Day 24: 01 Mar. Friday
+
 - ...
 
 **Thoughts:** None
@@ -364,7 +376,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 24: 01 Mar. Friday
+### Day 25: 02 Mar. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - ...
+
+<hr />
+
+### Day 26: 03 Mar. Sunday
 
 - ...
 
