@@ -367,9 +367,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 24: 01 Mar. Friday
 
+- Started working on Section 5 of The Complete NodeJs Developer Course 2 Udemy Course. 💪
+  - [x] Section Intro
+  - [x] Hello Express
+
 - ...
 
-**Thoughts:** None
+**Thoughts:** Loving the course
 
 **Link to work:**
   - ...
