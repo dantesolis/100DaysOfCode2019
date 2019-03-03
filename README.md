@@ -476,7 +476,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 32: 10 Mar. Sunday
+### Day 33: 10 Mar. Sunday
 
 - ...
 
