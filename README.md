@@ -34,6 +34,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - DAY OFF - 10 Feb. Sunday
   - DAY OFF - 16 Feb. Sunday
   - DAY OFF - 24 Feb. Sunday
+  - DAY OFF - 03 Mar. Sunday
   ---------------------------
   Total: 3
 
@@ -371,8 +372,6 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - [x] Section Intro
   - [x] Hello Express
 
-- ...
-
 **Thoughts:** Loving the course
 
 **Link to work:**
@@ -382,24 +381,44 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 25: 02 Mar. Saturday
 
-- ...
+- Started and finished Section 1 and started Section 2 of The Complete NodeJs Developer Course 3rd Edition Udemy Course. 💪
+  - [x] Section 1
+  - [x] First 2 videos on Section 2 *See note*
+
+  **_Note_:** The Course content got updated and I "lost" all previously watched tracks. 😢 Don't know if to be upset or excited 🤔. Could I be both ? 😀 Previously started **Section 5** got bumped to **Section 7** on this new edition. Will most probably continue to **Section 7** and then move backwards.
+
+- Worked on a friend's site/business.
+  - [x] Finished Business Card on Sketch. 
+
 
 **Thoughts:** None
 
 **Link to work:**
-  - ...
+  - Once it's finished, design will go to the sketch cloud.
 
 <hr />
 
 ### Day 26: 03 Mar. Sunday
 
-- ...
+- DAY OFF
 
 **Thoughts:** None
+
+**Link to work:**
+  - DAY OFF
+
+<hr />
+
+### Day 27: 04 Mar. Monday
+
+- ...
+
+**Thoughts:** ...
 
 **Link to work:**
   - ...
 
 <hr />
+
 
 Made with ❤️ &copy; 2019 D/S 💯
