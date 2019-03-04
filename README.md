@@ -394,7 +394,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - Once it's finished, design will go to the sketch cloud.
+  - Business card Design: Once it's finished, design will go to the sketch cloud and will be shared.
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
 
 <hr />
 
@@ -411,12 +412,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 27: 04 Mar. Monday
 
-- ...
+- Started Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Section Intro: Web Servers
+  - [x] Hello Express
 
-**Thoughts:** ...
+- Read **3** page YDKJS Book 3 (29 - 31) 
+  - [x] Indirection
+  - [x] Softening Binding
+
+**Thoughts:** Started Section 7 (this was Section 5 on the 2nd Edition). Gonna continue working from this section and then move backwards.
 
 **Link to work:**
-  - ...
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
 
 <hr />
 
