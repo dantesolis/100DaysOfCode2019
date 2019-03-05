@@ -429,12 +429,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 28: 05 Mar. Tuesday
 
-- ...
+- Read **3** page YDKJS Book 3 (31 - 33) 
+  - [x] Lexical this
 
-**Thoughts:** ...
+**Thoughts:** Need to review & write a blog post about the rules of binding `this` with `bind()` binding vs. lexically binding `this` with either arrow functions or with `var self = this`. Which basically enforces me to scape from undersating the `this` binding, when I want to embrace 🤗 and 🧡 it.
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
