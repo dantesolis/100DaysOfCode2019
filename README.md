@@ -388,7 +388,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   **_Note_:** The Course content got updated and I "lost" all previously watched tracks. 😢 Don't know if to be upset or excited 🤔. Could I be both ? 😀 Previously started **Section 5** got bumped to **Section 7** on this new edition. Will most probably continue to **Section 7** and then move backwards.
 
 - Worked on a friend's site/business.
-  - [x] Finished Business Card on Sketch. 
+  - [x] Worked on Business Card on Sketch. 
 
 
 **Thoughts:** None
@@ -441,12 +441,23 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 29: 06 Mar. Wednesday
 
-- ...
+- Read **2** page YDKJS Book 3 (33 - 34) 
+  - [x] Review of `this` binding rules
 
-**Thoughts:** ...
+- Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Serving up HTML and JSON
+
+- Started working on a `create-necessary-files-cli` in node for setting files on newly created repo.
+
+- Worked on a friend's site/business.
+  - [x] Finished on Business Card on Sketch.
+
+
+**Thoughts:**
 
 **Link to work:**
-  - ...
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
+  - [scripts](https://github.com/dantesolis/scripts)
 
 <hr />
 
