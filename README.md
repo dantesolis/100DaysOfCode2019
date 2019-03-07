@@ -463,12 +463,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 30: 07 Mar. Thursday
 
-- ...
+- Read **6** page YDKJS Book 3 (35 - 41)
+  - [x] Chapter 3
+    - [x] Syntax
+    - [x] Type
+    - [x] Built-in Objects
+    - [x] Content
+    - [x] Computed Property Names
 
-**Thoughts:** ...
+**Thoughts:** ❤❤❤❤ this series
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
