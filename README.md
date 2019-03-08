@@ -480,13 +480,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 31: 08 Mar. Friday
 
+- Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Serving up Static Assets (`html`)
 
-- ...
-
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
 
 <hr />
 
