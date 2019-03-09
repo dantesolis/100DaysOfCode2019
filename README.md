@@ -463,7 +463,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 30: 07 Mar. Thursday
 
-- Read **6** page YDKJS Book 3 (35 - 41)
+- Read **6** pages from YDKJS Book 3 (35 - 41)
   - [x] Chapter 3
     - [x] Syntax
     - [x] Type
@@ -492,12 +492,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 32: 09 Mar. Saturday
 
-- ...
+- Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Serving up CSS, JS, Images and more.
+  - Learnt about how to create an "easteregg" on the `console` with react and typescript.
 
-**Thoughts:** ...
+- Read **3** pages from YDKJS Book 3 (41 - 43)
+  - [x] Chapter 3
+    - [x] ...
+    - [x] Property vs. Method
+
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
 
 <hr />
 
