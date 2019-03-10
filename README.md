@@ -510,12 +510,12 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 33: 10 Mar. Sunday
 
-- ...
+- Worked on Framer X prototype for a wallpaper. Trying to get The design appear on code. Getting a bit stuck on how to change the code from a class component to a functional component.
 
-**Thoughts:** ...
+**Thoughts:** None yet
 
 **Link to work:**
-  - ...
+  - None yet.
 
 <hr />
 
