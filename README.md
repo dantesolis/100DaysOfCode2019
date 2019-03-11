@@ -519,4 +519,22 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 34: 11 Mar. Monday
+
+- Continued on Framer X prototype for a wallpaper for future framer-x brussel design meetup.
+
+- Read **8** pages from YDKJS Book 3 (43 - 51)
+  - [x] Chapter 3
+    - [x] Arrays
+    - [x] Duplicating Obj.
+    - [x] Property Descriptors
+    - [x] Immutability
+
+**Thoughts:** None yet.
+
+**Link to work:**
+  - None yet.  
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
