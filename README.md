@@ -537,4 +537,21 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+
+### Day 35: 12 Mar. Tuesday
+
+- Finished Framer X prototype wallpaper for the [Brussels Framer-X  meetup](https://www.meetup.com/Brussels-FramerX/events/259701919/?isFirstPublish=true).
+- Started another prototype for the Meetup. 1 of 4. 
+  - [ ] 1. Simple wallpaper with 2 components
+    - [x] Created Heading SubHeading components in `typescript` and converted those into `functional components
+  - [ ] 2. Activy Bar (icons + animations)
+  - [ ] 3. Mini Picture app 
+
+**Thoughts:** None yet.
+
+**Link to work:**
+  - None yet.  
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
