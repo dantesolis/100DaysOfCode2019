@@ -554,4 +554,22 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 36: 13 Mar. Wednesday
+
+- Read **5** pages from YDKJS Book 3 (52 - 56)
+  - [x] Chapter 3
+    - [x] ...
+    - [x] Immutability
+    - [x] [[Get]]
+    - [x] [[Put]]
+    - [x] Getters && Setters
+    - [x] Existence
+
+**Thoughts:** None yet.
+
+**Link to work:**
+  - None yet.  
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
