@@ -572,4 +572,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 37: 14 Mar. Thursday
+
+- Read **2** pages from YDKJS Book 3 (57 - 59)
+  - [x] Chapter 3
+    - [x] ...
+    - [x] Existence
+      - [x] Enumeration
+
+**Thoughts:** None yet.
+
+**Link to work:**
+  - None yet.  
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
