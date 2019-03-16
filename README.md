@@ -565,10 +565,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
     - [x] Getters && Setters
     - [x] Existence
 
-**Thoughts:** None yet.
+**Thoughts:** None
 
 **Link to work:**
-  - None yet.  
+  - None
 
 <hr />
 
@@ -583,8 +583,23 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None yet.
 
 **Link to work:**
-  - None yet.  
+  - None
 
 <hr />
+
+### Day 38: 15 Mar. Friday
+
+- Read **4** pages from YDKJS Book 3 (59 - 62)
+  - [x] Chapter 3
+    - [x] ...
+    - [x] Iteration
+
+**Thoughts:** None.
+
+**Link to work:**
+  - None.
+
+<hr />
+
 
 Made with ❤️ &copy; 2019 D/S 💯
