@@ -601,5 +601,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 39: 16 Mar. Saturday
+
+- Read **4** pages from YDKJS Book 3 (63 - 67)
+  - [x] Chapter 3
+    - [x] Review
+  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+    - [x] Class Theory
+
+**Thoughts:** None.
+
+**Link to work:**
+  - None.
+
+<hr />
 
 Made with ❤️ &copy; 2019 D/S 💯
