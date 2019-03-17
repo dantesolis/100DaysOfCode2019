@@ -35,8 +35,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - DAY OFF - 16 Feb. Sunday
   - DAY OFF - 24 Feb. Sunday
   - DAY OFF - 03 Mar. Sunday
+  - DAY OFF - 17 Mar. Sunday
   ---------------------------
-  Total: 3
+  Total: 5
 
 ## Log
 
@@ -613,6 +614,17 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:**
   - None.
+
+<hr />
+
+### Day 40: 17 Mar. Sunday
+
+-  DAY OFF
+
+**Thoughts:** DAY OFF
+
+**Link to work:**
+  - DAY OFF
 
 <hr />
 
