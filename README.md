@@ -628,4 +628,20 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 41: 18 Mar. Monday
+
+- Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Customizing the Views Directory.
+
+- Read **...** pages from YDKJS Book 3 (63 - 67)
+  - [ ] Chapter 4: Mixing (Up) "Class" Objcts
+    - [ ] ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
