@@ -633,11 +633,16 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
   - [x] Customizing the Views Directory.
 
-- Read **...** pages from YDKJS Book 3 (63 - 67)
-  - [ ] Chapter 4: Mixing (Up) "Class" Objcts
-    - [ ] ...
+- Read **1** page from YDKJS Book 3 (67 - 68)
+  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+    - [x] Class Design Pattern
+    - [x] Javascript "Classes"
 
-**Thoughts:** ...
+- Did *2** videos of freecodecamp "css-grids"
+
+- Worked on a typeform for the up coming Framer X event.
+
+**Thoughts:** None
 
 **Link to work:**
   - [node-web-server](https://github.com/dantesolis/node-web-server)
