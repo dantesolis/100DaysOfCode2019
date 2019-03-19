@@ -631,8 +631,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 ### Day 41: 18 Mar. Monday
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Customizing the Views Directory.
-
+  - [x] Dynamic Pages with Templating
 - Read **1** page from YDKJS Book 3 (67 - 68)
   - [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Design Pattern
@@ -641,6 +640,25 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - Did *2** videos of freecodecamp "css-grids"
 
 - Worked on a typeform for the up coming Framer X event.
+
+**Thoughts:** None
+
+**Link to work:**
+  - [node-web-server](https://github.com/dantesolis/node-web-server)
+
+<hr />
+
+### Day 42: 19 Mar. Tuesday
+
+- Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
+  - [x] Customizing the Views Directory.
+
+- Did *2** videos of freecodecamp "css-grids"
+
+- Read **1** page from YDKJS Book 3 (67 - 68)
+  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+    - [ ] ... 
+
 
 **Thoughts:** None
 
