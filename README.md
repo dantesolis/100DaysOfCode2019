@@ -655,10 +655,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 - Did *2** videos of freecodecamp "css-grids"
 
-- Read **1** page from YDKJS Book 3 (67 - 68)
+- Read **2** page from YDKJS Book 3 (68 - 69)
   - [x] Chapter 4: Mixing (Up) "Class" Objcts
-    - [ ] ... 
-
+    - [x] Class Mechanics
 
 **Thoughts:** None
 
