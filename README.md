@@ -655,7 +655,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 - Did *2** videos of freecodecamp "css-grids"
 
-- Read **2** page from YDKJS Book 3 (68 - 69)
+- Read **2** page from YDKJS Book 3 (68 - 70)
   - [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Mechanics
 
@@ -665,5 +665,63 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - [node-web-server](https://github.com/dantesolis/node-web-server)
 
 <hr />
+
+### Day 43: 20 Mar. Wednesday
+
+- Read **2** page from YDKJS Book 3 (68 - 70)
+  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+    - [x] Constructor
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 44: 21 Mar. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 45: 22 Mar. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 46: 23 Mar. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 47: 23 Mar. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
 
 Made with ❤️ &copy; 2019 D/S 💯
