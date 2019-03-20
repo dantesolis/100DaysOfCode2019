@@ -668,7 +668,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 43: 20 Mar. Wednesday
 
-- Read **2** page from YDKJS Book 3 (68 - 70)
+- Read **1** page from YDKJS Book 3 (70 - 71)
   - [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Constructor
 
