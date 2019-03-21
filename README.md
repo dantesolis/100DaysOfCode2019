@@ -681,7 +681,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 44: 21 Mar. Thursday
 
-- Did *3** videos of freecodecamp "css-grids"
+- Did **3** exercises of freecodecamp "css-grids"
 - Busy day today 😢. Will probably read some `YDKJS` on the 🚌
 
 **Thoughts:** None
