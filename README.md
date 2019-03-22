@@ -693,7 +693,11 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 45: 22 Mar. Friday
 
-- ...
+- Did **3** exercises of freecodecamp "css-grids".
+
+- Did 1 page of Getting Started with [`GraphQL.js`](https://graphql.org/graphql-js/).
+
+- Cleaned 10 outdated `gh-repos` on my github.
 
 **Thoughts:** None
 
