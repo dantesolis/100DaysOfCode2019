@@ -695,7 +695,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 - Did **3** exercises of freecodecamp "css-grids".
 
-- Did 1 page of Getting Started with [`GraphQL.js`](https://graphql.org/graphql-js/).
+- Did 1 page of `GraphQL.js` tutorial
+  - [x] Getting started with [graphql]((https://graphql.org/graphql-js/).)
 
 - Cleaned 10 outdated `gh-repos` on my github.
 
@@ -708,7 +709,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 46: 23 Mar. Saturday
 
-- ...
+- Did **2** exercises of freecodecamp "css-grids".
+- Did 1 page of `GraphQL.js` tutorial
+  - [x] Running an Express [graphql server](https://graphql.github.io/graphql-js/running-an-express-graphql-server/))
+- Read **4** pages from YDKJS Book 3 (71 - 75)
+  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+    - [x] Class Inheritance
+    - [x] Polymorphism
 
 **Thoughts:** None
 
