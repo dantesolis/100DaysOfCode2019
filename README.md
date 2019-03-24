@@ -724,16 +724,26 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
-### Day 47: 23 Mar. Sunday
+### Day 47: 24 Mar. Sunday
 
-- ...
+- DAY OFF
 
-**Thoughts:** None
+**Thoughts:** DAY OFF
 
 **Link to work:**
-  - None
+  - DAY OFF
 
 <hr />
 
+### Day 48: 25 Mar. Monday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
 
 Made with ❤️ &copy; 2019 D/S 💯
