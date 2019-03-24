@@ -36,8 +36,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - DAY OFF - 24 Feb. Sunday
   - DAY OFF - 03 Mar. Sunday
   - DAY OFF - 17 Mar. Sunday
+  - DAY OFF - 24 Mar. Sunday
   ---------------------------
-  Total: 5
+  Total: 6
 
 ## Log
 
@@ -726,7 +727,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 47: 24 Mar. Sunday
 
-- DAY OFF
+- DAY OFF 🏡❤️😍 also  🍟🛋 😍
 
 **Thoughts:** DAY OFF
 
