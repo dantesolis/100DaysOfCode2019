@@ -738,6 +738,80 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 48: 25 Mar. Monday
 
+- Did **2** exercises of freecodecamp "css-grids".
+- Did 1 page of `GraphQL.js` tutorial
+  - [x] [GraphQl Client](https://graphql.github.io/graphql-js/graphql-clients/)
+- Read **1** page from YDKJS Book 3 (75 - 76)
+  - [x] Chapter 4: Mixing (Up) "Class" Objs
+    - [x] Multiple Inheritance
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 49: 26 Mar. Tuesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+
+### Day 50: 27 Mar. Wednesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+
+### Day 51: 28 Mar. Thursday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+
+### Day 52: 29 Mar. Friday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+### Day 53: 30 Mar. Saturday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+
+<hr />
+
+### Day 54: 31 Mar. Sunday
+
 - ...
 
 **Thoughts:** ...
