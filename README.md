@@ -755,7 +755,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 ### Day 49: 26 Mar. Tuesday
 
 - Worked on a `mdx-deck` presentation for the framer-x meetup group. Falling more in :heart_eyes:with this library.
-- Created some small components in Framer X for the demo
+- Created some small components in `Framer X` for the demo
 
 **Thoughts:** deck-yourself ?
 
@@ -767,12 +767,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 50: 27 Mar. Wednesday
 
-- ...
+- Did 1 page of `GraphQL.js` tutorial
+  - [x] [Basic Types](https://graphql.github.io/graphql-js/basic-types/)
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
