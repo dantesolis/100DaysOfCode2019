@@ -780,12 +780,12 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 51: 28 Mar. Thursday
 
-- ...
+- Did **2** exercises of freecodecamp "css-grids".
 
-**Thoughts:** ...
+**Thoughts:** Easy day today, this weekend will tackle more stuff.
 
 **Link to work:**
-  - ...
+  - Easy day today.
 
 <hr />
 
