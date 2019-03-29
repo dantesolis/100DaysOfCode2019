@@ -792,12 +792,15 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 52: 29 Mar. Friday
 
-- ...
+- Read **8** pages from YDKJS Book 3 (76 - 84)
+  - [x] Finished Chapter 4: Mixing (Up) "Class" Objs
+    - [x] Mixins: `Explicit` vs `Implicit`
 
-**Thoughts:** ...
+
+**Thoughts:** I ❤️ JS more and more man.
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
