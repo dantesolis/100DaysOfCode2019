@@ -806,12 +806,16 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 53: 30 Mar. Saturday
 
-- ...
+- Read **5** pages from YDKJS Book 3 (85 - 90)
+  - [x] Chapter 5: Prototypes
+    - [x] Prototype
+    - [x] Setting and Shadowing Properties
+- Started working on my personal and shareable `eslint-config` file
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - [eslint-config-dantesolis](https://github.com/dantesolis/eslint-config-dantesolis)
 
 <hr />
 
