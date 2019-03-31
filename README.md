@@ -821,12 +821,12 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 54: 31 Mar. Sunday
 
-- ...
+- DAY OFF (LOTR Movie Marathon Day) 🧝‍♀️ 🤴 🧝‍♂️
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - None
 
 <hr />
 
