@@ -37,8 +37,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - DAY OFF - 03 Mar. Sunday
   - DAY OFF - 17 Mar. Sunday
   - DAY OFF - 24 Mar. Sunday
+  - DAY OFF - 31 Mar. Sunday
   ---------------------------
-  Total: 6
+  Total: 7
 
 ## Log
 
