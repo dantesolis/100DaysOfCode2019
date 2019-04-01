@@ -831,4 +831,83 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 <hr />
 
+### Day 55: 01 Apr. Monday
+
+- Did *2* exercises of FCC "css-grids"
+- Did 1 page of `GraphQL.js` tutorial
+  - [x] [Passing Arguments](https://graphql.github.io/graphql-js/passing-arguments/)
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 57: 02 Apr. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 58: 03 Apr. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 59: 04 Apr. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 60: 05 Apr. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 61: 06 Apr. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 62: 07 Apr. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
