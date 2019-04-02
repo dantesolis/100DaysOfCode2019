@@ -846,7 +846,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 ### Day 57: 02 Apr. Tuesday
 
-- ...
+- Did *2* exercises of FCC "css-grids"
+- Read **2** pages from YDKJS Book 3 (90 - 92)
+  - [x] Chapter 5: Prototypes
+    - [x] "Class"
+    - [x] "Class" Funtions
+
+Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 **Thoughts:** None
 
