@@ -850,7 +850,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - Read **2** pages from YDKJS Book 3 (90 - 92)
   - [x] Chapter 5: Prototypes
     - [x] "Class"
-    - [x] "Class" Funtions
+    - [x] "Class" Functions
 
 Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
