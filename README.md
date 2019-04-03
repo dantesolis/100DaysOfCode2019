@@ -863,7 +863,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 58: 03 Apr. Wednesday
 
-- ...
+- Did *3* exercises of FCC "css-grids". Finished the `css-grids` section
+- Read **15** pages from YDKJS Book 3 (92 - 107) 📚🐛
+  - [x] Chapter 5: Prototypes
+    - [x] "Constructors"
+    - [x] Mechanics
+    - [x] (Prototypal) Inheritance
+    - [x] Inspecting "Class" Inheritance
 
 **Thoughts:** None
 
