@@ -880,7 +880,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 59: 04 Apr. Thursday
 
-- ...
+- Did *4* exercises of FCC "Responsible Web Design Principles". Finished the `Responsible Web Design Principles` section.
+- Not too much ⏰ for much today. But will probably read some YDJS on the 🚌 
 
 **Thoughts:** None
 
