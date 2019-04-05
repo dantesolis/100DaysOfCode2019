@@ -892,7 +892,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 60: 05 Apr. Friday
 
-- ...
+- Did *1* exercises of FCC "Introduction to JS". 
 
 **Thoughts:** None
 
