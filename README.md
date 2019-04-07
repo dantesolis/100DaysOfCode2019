@@ -38,8 +38,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
   - DAY OFF - 17 Mar. Sunday
   - DAY OFF - 24 Mar. Sunday
   - DAY OFF - 31 Mar. Sunday
+  - DAY OFF - 07 Apr. Sunday
   ---------------------------
-  Total: 7
+  Total: 8
 
 ## Log
 
@@ -914,7 +915,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 62: 07 Apr. Sunday
 
-- ...
+- DAY OFF 🛋 📺
 
 **Thoughts:** None
 
