@@ -905,6 +905,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 61: 06 Apr. Saturday
 
 - Read **1** page from YDKJS Book 3 (107 - 108) 📚🐛.
+  - [x] Chapter 5: Prototypes
+    - [x] Object Links
 
 **Thoughts:** None
 
