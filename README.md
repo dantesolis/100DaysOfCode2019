@@ -926,4 +926,20 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 <hr />
 
+### Day 63: 08 Apr. Monday
+
+- Read **12** pgs from YDKJS Book 3 (108 - 120) 📚🐛.
+  - [x] Finished Chapter 5: Prototypes
+  - [x] Chapter 6: Behavior Delegation
+    - [x] Toward Delegation-Oriented Design
+    - [x] Class Theory
+    - [x] Delegation Theory
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
