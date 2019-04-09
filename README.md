@@ -942,4 +942,78 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 <hr />
 
+### Day 64: 09 Apr. Tuesday
+
+- Read **** pgs from YDKJS Book 3 (120 - ...).
+  - [x] Chapter 6: Behavior Delegation
+    - [x] Mental Models Compared
+    - [x] Classes vs Objects
+      - [x] Widget Classes
+- Finished Section 1 on [Advanced React Native Concepts](https://www.udemy.com/react-native-advanced/) on Udemy
+  - [x] Intro to Expo
+- Did *2* exercises of FCC "Javascript Algorithms and Data Structures". 
+  - [x] Basic Javascript
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+
+<hr />
+
+### Day 65: 10 Apr. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 66: 11 Apr. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 67: 12 Apr. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 68: 13 Apr. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 69: 14 Apr. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
