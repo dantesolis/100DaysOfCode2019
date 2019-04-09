@@ -944,7 +944,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 64: 09 Apr. Tuesday
 
-- Read **** pgs from YDKJS Book 3 (120 - ...).
+- Read **6** pgs from YDKJS Book 3 (120 - 126).
   - [x] Chapter 6: Behavior Delegation
     - [x] Mental Models Compared
     - [x] Classes vs Objects
