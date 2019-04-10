@@ -963,7 +963,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 65: 10 Apr. Wednesday
 
-- ...
+- Read **4** pgs from YDKJS Book 3 (126 - 130).
+  - [x] Chapter 6: Behavior Delegation
+    - [x] Delegating Widget Objects
+    - [x] Simpler Design
+- Did *3* exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
