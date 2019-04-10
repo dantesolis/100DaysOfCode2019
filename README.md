@@ -962,8 +962,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 <hr />
 
 ### Day 65: 10 Apr. Wednesday
-
-- Read **4** pgs from YDKJS Book 3 (126 - 130).
+ 
+- Read **10** pgs from YDKJS Book 3 (126 - 136). 💪🏋
   - [x] Chapter 6: Behavior Delegation
     - [x] Delegating Widget Objects
     - [x] Simpler Design
