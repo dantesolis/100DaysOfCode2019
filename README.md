@@ -978,7 +978,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 66: 11 Apr. Thursday
 
-- ...
+- Read **14** pgs from YDKJS Book 3 (136 - 150). 🙂🙂
+  - [x] Finished Chapter 6: Behavior Delegation
+    - [x] Nicer Syntax
+    - [x] Introspection
+  - [x] Appendix A
+    - [ ] ES6 Classes (reading now)
+- Did *4* exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
