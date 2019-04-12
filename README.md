@@ -994,8 +994,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 <hr />
 
 ### Day 67: 12 Apr. Friday
-
-- ...
+- Read **3** pgs from YDKJS Book 3 (150 - 153). 🙂🙂
+  - [x] Finished Appendix A
+    - [x] ES6 Classes
+- Did *5* exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
