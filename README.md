@@ -998,7 +998,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] Finished Appendix A
     - [x] ES6 Classes
   - [x] Started reading "Clean Code" (Reading the Foreword)
-- Did *5* exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- Did **5** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
@@ -1009,7 +1009,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 68: 13 Apr. Saturday
 
-- ...
+- Did **3** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Reading "Clean Code"
+  - [x] Foreword (I am one of those) 😀
 
 **Thoughts:** None
 
