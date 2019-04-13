@@ -997,6 +997,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - Read **3** pgs from YDKJS Book 3 (150 - 153). 🙂🙂
   - [x] Finished Appendix A
     - [x] ES6 Classes
+  - [x] Started reading "Clean Code" (Reading the Foreword)
 - Did *5* exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
