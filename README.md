@@ -1022,7 +1022,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 69: 14 Apr. Sunday
 
-- ...
+- Did **3** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Reading "Clean Code"
+  - [x] Introduction
 
 **Thoughts:** None
 
