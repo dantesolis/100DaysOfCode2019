@@ -1035,7 +1035,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 70: 15 Apr. Monday
 
-- ...
+- Constributed to 1 issue for CodeBuddies.
+- [x] Reading "Clean Code"
+  - [x] Finished the reading Introduction
 
 **Thoughts:** None
 
