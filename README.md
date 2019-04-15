@@ -1033,4 +1033,81 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   
 <hr />
 
+### Day 70: 15 Apr. Monday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 71: 16 Apr. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 72: 17 Apr. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 73: 18 Apr. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 74: 19 Apr. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 75: 20 Apr. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
+### Day 76: 21 Apr. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:**
+  - None
+  
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
