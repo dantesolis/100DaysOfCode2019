@@ -1048,7 +1048,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 71: 16 Apr. Tuesday
 
-- ...
+- Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- Did **5** modules of Section 1 on [ios-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content)
+- [x] Read **2** pgs from "Clean Code" (pg 1 - 3)
+  - [x] Chapter 1: Clean Code
 
 **Thoughts:** None
 
