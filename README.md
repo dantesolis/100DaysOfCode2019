@@ -1062,7 +1062,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 72: 17 Apr. Wednesday
 
-- ...
+- Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Read **3** pgs from "Clean Code" (pg 3 - 6)
+  - [x] Chapter 1: The Total Cost of Owning a Mess
+    - [x] The Grand Redesign in the Sky
+
+
 
 **Thoughts:** None
 
