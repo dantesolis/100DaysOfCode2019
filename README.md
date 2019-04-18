@@ -1078,7 +1078,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 73: 18 Apr. Thursday
 
-- ...
+- Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Read **4** pgs from "Clean Code" (pg 6 - 10 )
+  - [x] Chapter 1: The Total Cost of Owning a Mess
+    - [x] What is clean code ?
 
 **Thoughts:** None
 
