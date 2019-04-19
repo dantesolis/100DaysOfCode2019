@@ -1092,7 +1092,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 74: 19 Apr. Friday
 
-- ...
+- Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Read **12** pgs from "Clean Code" (pg 10 - 22)
+  - [x] Finished Chapter 1: The Total Cost of Owning a Mess
+  - [x] Started Chapter 2: Meaningful Names
+    - [x] Use Intention Revealing Names
+    - [x] Avoid Disinformation
+    - [x] Make Meaningful Distinctions
+    - [x] Use Pronounceable Names
+
 
 **Thoughts:** None
 
