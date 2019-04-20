@@ -1111,7 +1111,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 75: 20 Apr. Saturday
 
-- ...
+- Did **1** exercises of FCC "Javascript Algorithms and Data : Basic JS"
+- [x] Read **8** pgs from "Clean Code" (pg 22 - 30)
+  - [x] Finished Chapter 2: Meaningful Names
+  - [x] Started Chapter 3: Functions
 
 **Thoughts:** None
 
