@@ -1135,4 +1135,86 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   
 <hr />
 
+
+### Day 77: 22 Apr. Monday
+
+- [x] Did **2** modules of Section 1 o [ios-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content)
+- [x] Read **...** pgs from "Clean Code" (pg 30 - )
+  - [x] Started Chapter 3: Functions
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+### Day 78: 23 Apr. Tuesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+### Day 79: 24 Apr. Wednesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+### Day 80: 25 Apr. Thursday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+
+### Day 81: 26 Apr. Friday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+### Day 82: 27 Apr. Saturday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
+### Day 83: 26 Apr. Sunday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:**
+  - ...
+  
+<hr />
+
 Made with ❤️ &copy; 2019 D/S 💯
