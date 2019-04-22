@@ -1139,14 +1139,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 77: 22 Apr. Monday
 
 - [x] Did **2** modules of Section 1 o [ios-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content)
-- [x] Read **...** pgs from "Clean Code" (pg 30 - )
-  - [x] Started Chapter 3: Functions
-- ...
+- [x] Read **4** pgs from "Clean Code" (pg 30 - 34)
+  - [x] Chapter 3: Functions
+- Worked on `create-necessary-files-cli` in nodejs.
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - Will add later
   
 <hr />
 
