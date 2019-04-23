@@ -1153,6 +1153,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 78: 23 Apr. Tuesday
 
 - [x] Did **1** modules of Section 1 of [iOS-12 BootCamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+  -[x] How do Apps Actually Work
+  
 - [x] Read **6** pgs from "Clean Code" (pg 34 - 40)
   - [x] Chapter 3: Functions
     - [x] Small!
