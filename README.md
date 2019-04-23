@@ -1138,7 +1138,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 77: 22 Apr. Monday
 
-- [x] Did **2** modules of Section 1 o [ios-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content)
+- [x] Did **2** modules of Section 1 of [iOS-12 BootCamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Courses
 - [x] Read **4** pgs from "Clean Code" (pg 30 - 34)
   - [x] Chapter 3: Functions
 - Worked on `create-necessary-files-cli` in nodejs.
@@ -1146,18 +1146,26 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - Will add later
+  - [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
   
 <hr />
 
 ### Day 78: 23 Apr. Tuesday
 
-- ...
+- [x] Did **1** modules of Section 1 of [iOS-12 BootCamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+- [x] Read **6** pgs from "Clean Code" (pg 34 - 40)
+  - [x] Chapter 3: Functions
+    - [x] Small!
+    - [x] Do 1 Thing
+    - [x] One Level of Abstraction per Function
+    - [x] Switch Statements
+    - [x] Use Descriptive Names
+    - [x] Function Arguments
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - None
   
 <hr />
 
