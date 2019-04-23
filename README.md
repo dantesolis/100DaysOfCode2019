@@ -1164,10 +1164,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
     - [x] Use Descriptive Names
     - [x] Function Arguments
 
+- Worked on `create-necessary-files-cli` in nodejs.
+  - [x] Added `flow`.
+  
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  - [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
   
 <hr />
 
