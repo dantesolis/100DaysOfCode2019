@@ -1176,12 +1176,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 79: 24 Apr. Wednesday
 
-- ...
+- [x] Read **3** pgs from "Clean Code" (pg 40 - 43)
+- [x] Chapter 3: Functions
+    - [x] Function Arguments
 
-**Thoughts:** ...
+**Thoughts:** None
 
 **Link to work:**
-  - ...
+  - None
   
 <hr />
 
