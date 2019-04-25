@@ -1189,9 +1189,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 80: 25 Apr. Thursday
 
-- ...
+- [x] Read **2** pgs from "Clean Code" (pg 44 - 46)
+- [x] Chapter 3: Functions
+    - [x] Have No Side Effects
+    - [x] Command Query Separation
 
-**Thoughts:** ...
+**Thoughts:** Today was off balance 😔, but I guess a good night rest would help
 
 **Link to work:**
   - ...
