@@ -1233,7 +1233,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - [x] Read **3** pgs from "Clean Code" (pg 40 - 43)
 - [x] Chapter 3: Functions
-    - [x] Function Arguments
+  - [x] Function Arguments
 
 **Thoughts:** None
 
@@ -1247,27 +1247,33 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - [x] Read **2** pgs from "Clean Code" (pg 44 - 46)
 - [x] Chapter 3: Functions
-    - [x] Have No Side Effects
-    - [x] Command Query Separation
+  - [x] Have No Side Effects
+  - [x] Command Query Separation
 
 **Thoughts:** Today was off balance 😔, but I guess a good night rest would help
 
 **Link to work:**
   
-- ...
+- None
   
 - - -
 
 ### Day 81: 26 Apr. Friday
 
-- ...
-
-**Thoughts:** ...
-
-**Link to work:**
+- [x] Read **3** pgs from "Clean Code" (pg 46 - 49)
+  - [x] Finished Chapter 3: Functions
+    - [x] Prefer exception to Returning Error Codes
+    - [x] DRY
+    - [x] Structured Programing
+    - [x] Conclusion
   
-- ...
-  
+😍 😍 😍
+  > "They (programmers) use the facilities of their chosen programming language to construct a much richer and more expressive language that can be used to tell that story" - "Clean Code", Robert C. Martin
+
+**Thoughts:** None
+
+**Link to work:** None
+
 - - -
 
 ### Day 82: 27 Apr. Saturday
