@@ -1,4 +1,4 @@
-# 100 Days of Code Log - 2019 EDITION BABY 🎉 (The Reckoning) 😜
+## 100 Days of Code Log - 2019 EDITION BABY 🎉 (The Reckoning) 😜
 
 **Inspiration:** Wanted to do continue on the path of learning and improving myself and since I couldn't decide how best to proceed, I asked those more knowlegeable than me - and my peeps 😀 🤗 - see the [tweet](https://twitter.com/dsbrux/status/1092845223414325249?s=20).
 This time around I think I will be giving myself 1 day a week OFF, usually Sundays, but let's see where my obsession takes me 😅.
@@ -30,17 +30,19 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 1
-  - DAY OFF - 10 Feb. Sunday
-  - DAY OFF - 16 Feb. Sunday
-  - DAY OFF - 24 Feb. Sunday
-  - DAY OFF - 03 Mar. Sunday
-  - DAY OFF - 17 Mar. Sunday
-  - DAY OFF - 24 Mar. Sunday
-  - DAY OFF - 31 Mar. Sunday
-  - DAY OFF - 07 Apr. Sunday
-  - DAY OFF - 21 Apr. Sunday
-  ---------------------------
+**Days Xtra to Add:** 9
+
+- DAY OFF - 10 Feb. Sunday
+- DAY OFF - 16 Feb. Sunday
+- DAY OFF - 24 Feb. Sunday
+- DAY OFF - 03 Mar. Sunday
+- DAY OFF - 17 Mar. Sunday
+- DAY OFF - 24 Mar. Sunday
+- DAY OFF - 31 Mar. Sunday
+- DAY OFF - 07 Apr. Sunday
+- DAY OFF - 21 Apr. Sunday
+
+- - -
   Total: 9
 
 ## Log
@@ -50,40 +52,42 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Today's Progress**:
 
 - Started Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Setting up.
+- [x] Setting up.
 
 **Thoughts:** Spent some time setting repos (log + weather-app-node) and getting everything "ready". I have enrolled on this course last year and completed Sections 1 - 3. I had stopped at Section 4. So starting at the beggining of Section 4 again. 💪
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
+
+- - -
 
 ### Day 2: 07 Feb. Thursday
 
 **Today's Progress**:
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Async example.
+- [x] Async example.
 
 - Read one page of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
-  - `this` All Makes Sense Now
+- `this` All Makes Sense Now
     - Nothing but rules
       - [x]  Default Binding
 
 **Thoughts:** Will like to write a blog post after I finish the chapter.
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 3: 08 Feb. Friday
 
 **Today's Progress**:
 
 - Read 3 (pg 14 -17) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
-  - `this` All Makes Sense Now
+- `this` All Makes Sense Now
     - Nothing but rules
       - [x] Default Binding
       - [x] Implicit Binding
@@ -91,17 +95,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** Will like to write a blog post after I finish the chapter or maybe sooner.
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)  
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)  
 
-<hr />
+- - -
 
 ### Day 4: 09 Feb. Saturday
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Call Stack and Event Loop
+- [x] Call Stack and Event Loop
   
 - Read 2 (pg 17 - 18) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
-  - `this` All Makes Sense Now
+- `this` All Makes Sense Now
     - Nothing but rules
       - [x] Default Binding
       - [x] Implicit Binding
@@ -110,9 +115,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** Learnt about implicit vs explicit binding. Thanks to the Udemy course understanding and because I'm happening to be reading the book and doing the course at the same time - **by coincidence** - I'm actually understanding better when and where to spot the `call-site`, `call-stack` of each `fn`, and how all this relates to the `event-loop` and the `node-apis` in Node.
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 5: 10 Feb. Sunday
 
@@ -122,12 +128,12 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** DAY OFF
 
-<hr />
+- - -
 
 ### Day 6: 11 Feb. Monday
   
 - Read 2 (pg 18 - 19) pages of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
-  - `this` All Makes Sense Now
+- `this` All Makes Sense Now
     - Nothing but rules
       - [x] Default Binding
       - [x] Implicit Binding
@@ -138,25 +144,26 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** None
 
-<hr />
+- - -
 
 ### Day 7: 12 Feb. Tuesday
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Callback Functions & APIs
+- [x] Callback Functions & APIs
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 8: 13 Feb. Wednesday
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Pretty Printing Objects
-  - [x] What Makes up an HTTP Request
+- [x] Pretty Printing Objects
+- [x] What Makes up an HTTP Request
 
 - Read 1 (pg 19 - 20) page of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
       - [x] ...
@@ -166,9 +173,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 9: 14 Feb. Thursday
 
@@ -183,9 +191,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 10: 15 Feb. Friday
 
@@ -209,18 +218,18 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** See today's progress
 
-<hr />
+- - -
 
 ### Day 11: 16 Feb. Saturday
 
 - Continued working on Section 4 of [The Complete NodeJs Developer Course 2](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/t/lecture/5525228?start=0) Udemy Course.
-  - [x] Encoding User Input
+- [x] Encoding User Input
 
 **Thoughts:** None
 
 **Link to work:** None
 
-<hr />
+- - -
 
 ### Day 12: 17 Feb. Sunday
 
@@ -230,79 +239,83 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** DAY OFF
 
-<hr />
+- - -
 
 ### Day 13: 18 Feb. Monday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Callback Errors
+- [x] Callback Errors
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 14: 19 Feb. Tuesday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Abstracting Callbacks
+- [x] Abstracting Callbacks
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 15: 20 Feb. Wednesday
 
 - Worked on a FramerX styleguide and "Coming Soon" page prototype for a friend's site.
-  - [x] Defined and created the Color Palette (Using Google Material Design) as inspiration/ref.
+- [x] Defined and created the Color Palette (Using Google Material Design) as inspiration/ref.
 
 **Thoughts:** None
 
 **Link to work:**
-  - Will be publishing to Uplabs and/or Dribble once the StyleGuide is done. Site code to be hosted on gitlab.
+- Will be publishing to Uplabs and/or Dribble once the StyleGuide is done. Site code to be hosted on gitlab.
 
-<hr />
+- - -
 
 ### Day 16: 21 Feb. Thursday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Abstracting Callbacks
+- [x] Abstracting Callbacks
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 17: 22 Feb. Friday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Chaining Callbacks
+- [x] Chaining Callbacks
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 18: 23 Feb. Saturday
 
 - Worked on a friend's site/business.
-  - [x] Created Business Card on Sketch. 
+- [x] Created Business Card on Sketch. 
 
 **Thoughts:** First time using sketch app and getting my feet wet with the tool. Need to practice more.
 
 **Link to work:**
-  - Once it's finished and approved. Design will go to the sketch cloud.
+- Once it's finished and approved. Design will go to the sketch cloud.
 
-<hr />
+- - -
 
 ### Day 19: 24 Feb. Sunday
 
@@ -312,97 +325,101 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Link to work:** DAY OFF
 
-<hr />
+- - -
 
 ### Day 20: 25 Feb. Monday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] ES6 Promises
+- [x] ES6 Promises
 
 - Read 4pg YDKJS Book 3 (pg22 - 26) 
-  - [x] Everything in order: Rules of `this`
+- [x] Everything in order: Rules of `this`
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 21: 26 Feb. Tuesday
 
 - Read 3pgs YDKJS Book 3 (26 - 29) 
-  - [x] Determining `this`: Rules of `this`
+- [x] Determining `this`: Rules of `this`
   ```js
     // order of priority for determining what `this` refers to on  
     // call-site
     new binding => explicit binding => implicit binding => default binding
   ```
-  - [x] Binding exceptions
+- [x] Binding exceptions
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 22: 27 Feb. Wednesday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Advanced Promises
+- [x] Advanced Promises
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
 
-<hr />
+- - -
 
 ### Day 23: 28 Feb. Thursday
 
 - Continued working on Section 4 of The Complete NodeJs Developer Course 2 Udemy Course.
-  - [x] Weather App With Promises
-  - [x] Extra Features
+- [x] Weather App With Promises
+- [x] Extra Features
 
 **Thoughts:** None
 
 **Link to work:**
-  - [weather-node-app](https://github.com/dantesolis/weather-app-node)
-<hr />
+  
+- [weather-node-app](https://github.com/dantesolis/weather-app-node)
+- - -
 
 ### Day 24: 01 Mar. Friday
 
 - Started working on Section 5 of The Complete NodeJs Developer Course 2 Udemy Course. 💪
-  - [x] Section Intro
-  - [x] Hello Express
+- [x] Section Intro
+- [x] Hello Express
 
 **Thoughts:** Loving the course
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 25: 02 Mar. Saturday
 
 - Started and finished Section 1 and started Section 2 of The Complete NodeJs Developer Course 3rd Edition Udemy Course. 💪
-  - [x] Section 1
-  - [x] First 2 videos on Section 2 *See note*
+- [x] Section 1
+- [x] First 2 videos on Section 2 *See note*
 
   **_Note_:** The Course content got updated and I "lost" all previously watched tracks. 😢 Don't know if to be upset or excited 🤔. Could I be both ? 😀 Previously started **Section 5** got bumped to **Section 7** on this new edition. Will most probably continue to **Section 7** and then move backwards.
 
 - Worked on a friend's site/business.
-  - [x] Worked on Business Card on Sketch. 
+- [x] Worked on Business Card on Sketch. 
 
 
 **Thoughts:** None
 
 **Link to work:**
-  - Business card Design: Once it's finished, design will go to the sketch cloud and will be shared.
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- Business card Design: Once it's finished, design will go to the sketch cloud and will be shared.
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 26: 03 Mar. Sunday
 
@@ -411,65 +428,66 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - DAY OFF
+- DAY OFF
 
-<hr />
+- - -
 
 ### Day 27: 04 Mar. Monday
 
 - Started Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Section Intro: Web Servers
-  - [x] Hello Express
+- [x] Section Intro: Web Servers
+- [x] Hello Express
 
 - Read **3** page YDKJS Book 3 (29 - 31) 
-  - [x] Indirection
-  - [x] Softening Binding
+- [x] Indirection
+- [x] Softening Binding
 
 **Thoughts:** Started Section 7 (this was Section 5 on the 2nd Edition). Gonna continue working from this section and then move backwards.
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 28: 05 Mar. Tuesday
 
 - Read **3** page YDKJS Book 3 (31 - 33) 
-  - [x] Lexical this
+- [x] Lexical this
 
 **Thoughts:** Need to review & write a blog post about the rules of binding `this` with `bind()` binding vs. lexically binding `this` with either arrow functions or with `var self = this`. Which basically enforces me to scape from undersating the `this` binding, when I want to embrace 🤗 and 🧡 it.
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 29: 06 Mar. Wednesday
 
 - Read **2** page YDKJS Book 3 (33 - 34) 
-  - [x] Review of `this` binding rules
+- [x] Review of `this` binding rules
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Serving up HTML and JSON
+- [x] Serving up HTML and JSON
 
 - Started working on a `create-necessary-files-cli` in node for setting files on newly created repo.
 
 - Worked on a friend's site/business.
-  - [x] Finished on Business Card on Sketch.
+- [x] Finished on Business Card on Sketch.
 
 
 **Thoughts:**
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
-  - [scripts](https://github.com/dantesolis/scripts)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
+- [scripts](https://github.com/dantesolis/scripts)
 
-<hr />
+- - -
 
 ### Day 30: 07 Mar. Thursday
 
 - Read **6** pages from YDKJS Book 3 (35 - 41)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] Syntax
     - [x] Type
     - [x] Built-in Objects
@@ -479,39 +497,40 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** ❤❤❤❤ this series
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 31: 08 Mar. Friday
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Serving up Static Assets (`html`)
+- [x] Serving up Static Assets (`html`)
 
 **Thoughts:** None
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 32: 09 Mar. Saturday
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Serving up CSS, JS, Images and more.
-  - Learnt about how to create an "easteregg" on the `console` with react and typescript.
+- [x] Serving up CSS, JS, Images and more.
+- Learnt about how to create an "easteregg" on the `console` with react and typescript.
 
 - Read **3** pages from YDKJS Book 3 (41 - 43)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] ...
     - [x] Property vs. Method
 
 **Thoughts:** None
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 33: 10 Mar. Sunday
 
@@ -520,16 +539,17 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None yet.
 
 **Link to work:**
-  - None yet.
+  
+- None yet.
 
-<hr />
+- - -
 
 ### Day 34: 11 Mar. Monday
 
 - Continued on Framer X prototype for a wallpaper for future framer-x brussel design meetup.
 
 - Read **8** pages from YDKJS Book 3 (43 - 51)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] Arrays
     - [x] Duplicating Obj.
     - [x] Property Descriptors
@@ -538,31 +558,33 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None yet.
 
 **Link to work:**
-  - None yet.  
+  
+- None yet.  
 
-<hr />
+- - -
 
 
 ### Day 35: 12 Mar. Tuesday
 
 - Finished Framer X prototype wallpaper for the [Brussels Framer-X  meetup](https://www.meetup.com/Brussels-FramerX/events/259701919/?isFirstPublish=true).
 - Started another prototype for the Meetup. 1 of 4. 
-  - [ ] 1. Simple wallpaper with 2 components
+- [ ] 1. Simple wallpaper with 2 components
     - [x] Created Heading SubHeading components in `typescript` and converted those into `functional components
-  - [ ] 2. Activy Bar (icons + animations)
-  - [ ] 3. Mini Picture app 
+- [ ] 2. Activy Bar (icons + animations)
+- [ ] 3. Mini Picture app 
 
 **Thoughts:** None yet.
 
 **Link to work:**
-  - None yet.  
+  
+- None yet.  
 
-<hr />
+- - -
 
 ### Day 36: 13 Mar. Wednesday
 
 - Read **5** pages from YDKJS Book 3 (52 - 56)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] ...
     - [x] Immutability
     - [x] [[Get]]
@@ -573,14 +595,15 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 37: 14 Mar. Thursday
 
 - Read **2** pages from YDKJS Book 3 (57 - 59)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] ...
     - [x] Existence
       - [x] Enumeration
@@ -588,38 +611,41 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None yet.
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 38: 15 Mar. Friday
 
 - Read **4** pages from YDKJS Book 3 (59 - 62)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] ...
     - [x] Iteration
 
 **Thoughts:** None.
 
 **Link to work:**
-  - None.
+  
+- None.
 
-<hr />
+- - -
 
 ### Day 39: 16 Mar. Saturday
 
 - Read **4** pages from YDKJS Book 3 (63 - 67)
-  - [x] Chapter 3
+- [x] Chapter 3
     - [x] Review
-  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+- [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Theory
 
 **Thoughts:** None.
 
 **Link to work:**
-  - None.
+  
+- None.
 
-<hr />
+- - -
 
 ### Day 40: 17 Mar. Sunday
 
@@ -628,16 +654,16 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** DAY OFF
 
 **Link to work:**
-  - DAY OFF
+- DAY OFF
 
-<hr />
+- - -
 
 ### Day 41: 18 Mar. Monday
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Dynamic Pages with Templating
+- [x] Dynamic Pages with Templating
 - Read **1** page from YDKJS Book 3 (67 - 68)
-  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+- [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Design Pattern
     - [x] Javascript "Classes"
 
@@ -648,40 +674,41 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 42: 19 Mar. Tuesday
 
 - Continue working on Section 7 of The Complete NodeJs Developer Course 3rd Edition Udemy Course.
-  - [x] Customizing the Views Directory.
+- [x] Customizing the Views Directory.
 
 - Did *2** videos of freecodecamp "css-grids"
 
 - Read **2** page from YDKJS Book 3 (68 - 70)
-  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+- [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Mechanics
 
 **Thoughts:** None
 
 **Link to work:**
-  - [node-web-server](https://github.com/dantesolis/node-web-server)
+- [node-web-server](https://github.com/dantesolis/node-web-server)
 
-<hr />
+- - -
 
 ### Day 43: 20 Mar. Wednesday
 
 - Read **1** page from YDKJS Book 3 (70 - 71)
-  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+- [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Constructor
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 44: 21 Mar. Thursday
 
@@ -691,42 +718,45 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 45: 22 Mar. Friday
 
 - Did **3** exercises of freecodecamp "css-grids".
 
 - Did 1 page of `GraphQL.js` tutorial
-  - [x] Getting started with [graphql]((https://graphql.org/graphql-js/).)
+- [x] Getting started with [graphql]((https://graphql.org/graphql-js/).)
 
 - Cleaned 10 outdated `gh-repos` on my github.
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 46: 23 Mar. Saturday
 
 - Did **2** exercises of freecodecamp "css-grids".
 - Did 1 page of `GraphQL.js` tutorial
-  - [x] Running an Express [graphql server](https://graphql.github.io/graphql-js/running-an-express-graphql-server/))
+- [x] Running an Express [graphql server](https://graphql.github.io/graphql-js/running-an-express-graphql-server/))
 - Read **4** pages from YDKJS Book 3 (71 - 75)
-  - [x] Chapter 4: Mixing (Up) "Class" Objcts
+- [x] Chapter 4: Mixing (Up) "Class" Objcts
     - [x] Class Inheritance
     - [x] Polymorphism
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 47: 24 Mar. Sunday
 
@@ -735,25 +765,26 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** DAY OFF
 
 **Link to work:**
-  - DAY OFF
+- DAY OFF
 
-<hr />
+- - -
 
 ### Day 48: 25 Mar. Monday
 
 - Did **2** exercises of freecodecamp "css-grids".
 - Did 1 page of `GraphQL.js` tutorial
-  - [x] [GraphQl Client](https://graphql.github.io/graphql-js/graphql-clients/)
+- [x] [GraphQl Client](https://graphql.github.io/graphql-js/graphql-clients/)
 - Read **1** page from YDKJS Book 3 (75 - 76)
-  - [x] Chapter 4: Mixing (Up) "Class" Objs
+- [x] Chapter 4: Mixing (Up) "Class" Objs
     - [x] Multiple Inheritance
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 49: 26 Mar. Tuesday
 
@@ -763,22 +794,24 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** deck-yourself ?
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 
 ### Day 50: 27 Mar. Wednesday
 
 - Did 1 page of `GraphQL.js` tutorial
-  - [x] [Basic Types](https://graphql.github.io/graphql-js/basic-types/)
+- [x] [Basic Types](https://graphql.github.io/graphql-js/basic-types/)
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 
 ### Day 51: 28 Mar. Thursday
@@ -788,29 +821,30 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** Easy day today, this weekend will tackle more stuff.
 
 **Link to work:**
-  - Easy day today.
+- Easy day today.
 
-<hr />
+- - -
 
 
 ### Day 52: 29 Mar. Friday
 
 - Read **8** pages from YDKJS Book 3 (76 - 84)
-  - [x] Finished Chapter 4: Mixing (Up) "Class" Objs
+- [x] Finished Chapter 4: Mixing (Up) "Class" Objs
     - [x] Mixins: `Explicit` vs `Implicit`
 
 
 **Thoughts:** I ❤️ JS more and more man.
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 53: 30 Mar. Saturday
 
 - Read **5** pages from YDKJS Book 3 (85 - 90)
-  - [x] Chapter 5: Prototypes
+- [x] Chapter 5: Prototypes
     - [x] Prototype
     - [x] Setting and Shadowing Properties
 - Started working on my personal and shareable `eslint-config` file
@@ -818,9 +852,9 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - [eslint-config-dantesolis](https://github.com/dantesolis/eslint-config-dantesolis)
+- [eslint-config-dantesolis](https://github.com/dantesolis/eslint-config-dantesolis)
 
-<hr />
+- - -
 
 ### Day 54: 31 Mar. Sunday
 
@@ -829,28 +863,30 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 55: 01 Apr. Monday
 
 - Did *2* exercises of FCC "css-grids"
 - Did 1 page of `GraphQL.js` tutorial
-  - [x] [Passing Arguments](https://graphql.github.io/graphql-js/passing-arguments/)
+- [x] [Passing Arguments](https://graphql.github.io/graphql-js/passing-arguments/)
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 57: 02 Apr. Tuesday
 
 - Did *2* exercises of FCC "css-grids"
 - Read **2** pages from YDKJS Book 3 (90 - 92)
-  - [x] Chapter 5: Prototypes
+- [x] Chapter 5: Prototypes
     - [x] "Class"
     - [x] "Class" Functions
 
@@ -859,15 +895,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 58: 03 Apr. Wednesday
 
 - Did *3* exercises of FCC "css-grids". Finished the `css-grids` section
 - Read **15** pages from YDKJS Book 3 (92 - 107) 📚🐛
-  - [x] Chapter 5: Prototypes
+- [x] Chapter 5: Prototypes
     - [x] "Constructors"
     - [x] Mechanics
     - [x] (Prototypal) Inheritance
@@ -876,9 +913,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 59: 04 Apr. Thursday
 
@@ -888,9 +926,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 60: 05 Apr. Friday
 
@@ -899,22 +938,24 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 61: 06 Apr. Saturday
 
 - Read **1** page from YDKJS Book 3 (107 - 108) 📚🐛.
-  - [x] Chapter 5: Prototypes
+- [x] Chapter 5: Prototypes
     - [x] Object Links
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 62: 07 Apr. Sunday
 
@@ -923,15 +964,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 63: 08 Apr. Monday
 
 - Read **12** pgs from YDKJS Book 3 (108 - 120) 📚🐛.
-  - [x] Finished Chapter 5: Prototypes
-  - [x] Chapter 6: Behavior Delegation
+- [x] Finished Chapter 5: Prototypes
+- [x] Chapter 6: Behavior Delegation
     - [x] Toward Delegation-Oriented Design
     - [x] Class Theory
     - [x] Delegation Theory
@@ -939,33 +981,35 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 64: 09 Apr. Tuesday
 
 - Read **6** pgs from YDKJS Book 3 (120 - 126).
-  - [x] Chapter 6: Behavior Delegation
+- [x] Chapter 6: Behavior Delegation
     - [x] Mental Models Compared
     - [x] Classes vs Objects
       - [x] Widget Classes
 - Finished Section 1 on [Advanced React Native Concepts](https://www.udemy.com/react-native-advanced/) on Udemy
-  - [x] Intro to Expo
+- [x] Intro to Expo
 - Did *2* exercises of FCC "Javascript Algorithms and Data Structures". 
-  - [x] Basic Javascript
+- [x] Basic Javascript
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
+  
+- None
 
-<hr />
+- - -
 
 ### Day 65: 10 Apr. Wednesday
  
 - Read **10** pgs from YDKJS Book 3 (126 - 136). 💪🏋
-  - [x] Chapter 6: Behavior Delegation
+- [x] Chapter 6: Behavior Delegation
     - [x] Delegating Widget Objects
     - [x] Simpler Design
 - Did *3* exercises of FCC "Javascript Algorithms and Data : Basic JS"
@@ -973,99 +1017,106 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 66: 11 Apr. Thursday
 
 - Read **14** pgs from YDKJS Book 3 (136 - 150). 🙂🙂
-  - [x] Finished Chapter 6: Behavior Delegation
+- [x] Finished Chapter 6: Behavior Delegation
     - [x] Nicer Syntax
     - [x] Introspection
-  - [x] Appendix A
+- [x] Appendix A
     - [ ] ES6 Classes (reading now)
 - Did *4* exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 67: 12 Apr. Friday
 - Read **3** pgs from YDKJS Book 3 (150 - 153). 🙂🙂
-  - [x] Finished Appendix A
+- [x] Finished Appendix A
     - [x] ES6 Classes
-  - [x] Started reading "Clean Code" (Reading the Foreword)
+- [x] Started reading "Clean Code" (Reading the Foreword)
 - Did **5** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 68: 13 Apr. Saturday
 
 - Did **3** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Reading "Clean Code"
-  - [x] Foreword (I am one of those) 😀
+- [x] Foreword (I am one of those) 😀
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 69: 14 Apr. Sunday
 
 - Did **3** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Reading "Clean Code"
-  - [x] Introduction
+- [x] Introduction
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 70: 15 Apr. Monday
 
 - Constributed to 1 issue for CodeBuddies.
 - [x] Reading "Clean Code"
-  - [x] Finished the reading Introduction
+- [x] Finished the reading Introduction
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 71: 16 Apr. Tuesday
 
 - Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - Did **5** modules of Section 1 on [ios-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content)
 - [x] Read **2** pgs from "Clean Code" (pg 1 - 3)
-  - [x] Chapter 1: Clean Code
+- [x] Chapter 1: Clean Code
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 72: 17 Apr. Wednesday
 
 - Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Read **3** pgs from "Clean Code" (pg 3 - 6)
-  - [x] Chapter 1: The Total Cost of Owning a Mess
+- [x] Chapter 1: The Total Cost of Owning a Mess
     - [x] The Grand Redesign in the Sky
 
 
@@ -1073,30 +1124,32 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 73: 18 Apr. Thursday
 
 - Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Read **4** pgs from "Clean Code" (pg 6 - 10)
-  - [x] Chapter 1: The Total Cost of Owning a Mess
+- [x] Chapter 1: The Total Cost of Owning a Mess
     - [x] What is clean code ?
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 74: 19 Apr. Friday
 
 - Did **2** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Read **12** pgs from "Clean Code" (pg 10 - 22)
-  - [x] Finished Chapter 1: The Total Cost of Owning a Mess
-  - [x] Started Chapter 2: Meaningful Names
+- [x] Finished Chapter 1: The Total Cost of Owning a Mess
+- [x] Started Chapter 2: Meaningful Names
     - [x] Use Intention Revealing Names
     - [x] Avoid Disinformation
     - [x] Make Meaningful Distinctions
@@ -1106,23 +1159,25 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 75: 20 Apr. Saturday
 
 - Did **1** exercises of FCC "Javascript Algorithms and Data : Basic JS"
 - [x] Read **8** pgs from "Clean Code" (pg 22 - 30)
-  - [x] Finished Chapter 2: Meaningful Names
-  - [x] Started Chapter 3: Functions
+- [x] Finished Chapter 2: Meaningful Names
+- [x] Started Chapter 3: Functions
 
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 76: 21 Apr. Sunday
 
@@ -1131,32 +1186,32 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** DAY OFF
 
 **Link to work:**
-  - DAY OFF
+- DAY OFF
   
-<hr />
+- - -
 
 
 ### Day 77: 22 Apr. Monday
 
 - [x] Did **2** modules of Section 1 of [iOS-12 BootCamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Courses
 - [x] Read **4** pgs from "Clean Code" (pg 30 - 34)
-  - [x] Chapter 3: Functions
+- [x] Chapter 3: Functions
 - Worked on `create-necessary-files-cli` in nodejs.
 
 **Thoughts:** None
 
 **Link to work:**
-  - [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
+- [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
   
-<hr />
+- - -
 
 ### Day 78: 23 Apr. Tuesday
 
 - [x] Did **1** modules of Section 1 of [iOS-12 BootCamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
-  -[x] How do Apps Actually Work
+-[x] How do Apps Actually Work
   
 - [x] Read **6** pgs from "Clean Code" (pg 34 - 40)
-  - [x] Chapter 3: Functions
+- [x] Chapter 3: Functions
     - [x] Small!
     - [x] Do 1 Thing
     - [x] One Level of Abstraction per Function
@@ -1165,14 +1220,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
     - [x] Function Arguments
 
 - Worked on `create-necessary-files-cli` in nodejs.
-  - [x] Added `flow`.
+- [x] Added `flow`.
   
 **Thoughts:** None
 
 **Link to work:**
-  - [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
+- [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
   
-<hr />
+- - -
 
 ### Day 79: 24 Apr. Wednesday
 
@@ -1183,9 +1238,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
-  - None
   
-<hr />
+- None
+  
+- - -
 
 ### Day 80: 25 Apr. Thursday
 
@@ -1197,10 +1253,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** Today was off balance 😔, but I guess a good night rest would help
 
 **Link to work:**
-  - ...
   
-<hr />
-
+- ...
+  
+- - -
 
 ### Day 81: 26 Apr. Friday
 
@@ -1209,9 +1265,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** ...
 
 **Link to work:**
-  - ...
   
-<hr />
+- ...
+  
+- - -
 
 ### Day 82: 27 Apr. Saturday
 
@@ -1220,9 +1277,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** ...
 
 **Link to work:**
-  - ...
   
-<hr />
+- ...
+  
+- - -
 
 ### Day 83: 26 Apr. Sunday
 
@@ -1231,8 +1289,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** ...
 
 **Link to work:**
-  - ...
   
-<hr />
+- ...
+  
+- - -
 
 Made with ❤️ &copy; 2019 D/S 💯
