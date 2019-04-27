@@ -1155,7 +1155,6 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
     - [x] Make Meaningful Distinctions
     - [x] Use Pronounceable Names
 
-
 **Thoughts:** None
 
 **Link to work:**
@@ -1278,11 +1277,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 82: 27 Apr. Saturday
 
-- ...
+- Did **1** module of Section 1 on [iOS-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+  - [x] What's an App ?
 
-**Thoughts:** ...
+**Thoughts:** I've been tired as fudge lately
 
-**Link to work:**
+**Link to work:** None at the moment
   
 - ...
   
