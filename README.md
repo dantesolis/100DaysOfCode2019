@@ -30,7 +30,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Xtra to Add:** 9
+**Days Extra to Add:** 9
 
 - DAY OFF - 10 Feb. Sunday
 - DAY OFF - 16 Feb. Sunday
@@ -1184,11 +1184,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 **Thoughts:** DAY OFF
 
-**Link to work:**
-- DAY OFF
+**Link to work:** DAY OFF
   
 - - -
-
 
 ### Day 77: 22 Apr. Monday
 
@@ -1200,6 +1198,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link to work:**
+
 - [create-necessary-files-cli](https://github.com/dantesolis/scripts/)
   
 - - -
@@ -1284,19 +1283,17 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 **Link to work:** None at the moment
   
-- ...
-  
 - - -
 
 ### Day 83: 26 Apr. Sunday
 
-- ...
+- [x] Read **5** pgs from "Clean Code" (pg 50 - 55)
+  - [x] Started Chapter 4: Comments
+    - [x] Explain Yourself in Code
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:**
-  
-- ...
+**Link to work:** None
   
 - - -
 
