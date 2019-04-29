@@ -1276,7 +1276,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 82: 27 Apr. Saturday
 
-- Did **1** module of Section 1 on [iOS-12-app-development-bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+- Did **1** module of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
   - [x] What's an App ?
 
 **Thoughts:** I've been tired as fudge lately
@@ -1299,8 +1299,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 84: 29 Apr. Monday
 
-- ...
-
+- Did **3** modules of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+  - [x] Downloading and Setting up Xcode
+- [x] Read **5** pgs from "Clean Code" (pg 55 - 60)
+  - [x] Started Chapter 4: Comments (cont...)
+  
 **Thoughts:** None
 
 **Link to work:** None
