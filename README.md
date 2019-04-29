@@ -1307,4 +1307,64 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   
 - - -
 
+### Day 85: 30 Apr. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 86: 01 May. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 87: 02 May. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 88: 03 May. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 89: 04 May. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 90: 05 May. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
