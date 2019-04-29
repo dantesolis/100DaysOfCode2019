@@ -1285,11 +1285,21 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   
 - - -
 
-### Day 83: 26 Apr. Sunday
+### Day 83: 28 Apr. Sunday
 
 - [x] Read **5** pgs from "Clean Code" (pg 50 - 55)
   - [x] Started Chapter 4: Comments
     - [x] Explain Yourself in Code
+
+**Thoughts:** None
+
+**Link to work:** None
+  
+- - -
+
+### Day 84: 29 Apr. Monday
+
+- ...
 
 **Thoughts:** None
 
