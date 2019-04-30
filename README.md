@@ -1312,9 +1312,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 85: 30 Apr. Tuesday
 
-- ...
+- Did **1** module of Section 1 on [iOS 12 App Development Bootcamp] Udemy Course
+  - [x] A Walkthrough of the Xcode Dev Environment.
+- [x] Read **2** pgs from "Clean Code" (pg 60 - 62)
+  - [x] Chapter 4: Comments (cont...)
+    - [x] Redundant, Misleading & Mandated Comments
 
-**Thoughts:** None
+**Thoughts:** Getting around on Xcode, does not look as scary as I thought.
 
 **Link to work:** None
   

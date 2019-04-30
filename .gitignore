@@ -1,3 +1,13 @@
-npm-debug.log
+# osx
 .DS_Store
+
+# dependencies
 node_modules
+
+# ide
+.vscode/settings.json
+
+# logs
+*.logs
+npm-debug.log
+yarn-error.log
