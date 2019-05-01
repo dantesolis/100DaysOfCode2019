@@ -1276,7 +1276,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 82: 27 Apr. Saturday
 
-- Did **1** module of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+- [x] Did **1** module of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
   - [x] What's an App ?
 
 **Thoughts:** I've been tired as fudge lately
@@ -1299,7 +1299,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 84: 29 Apr. Monday
 
-- Did **3** modules of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
+- [x] Did **3** modules of Section 1 on [iOS 12 App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/learn/v4/content) Udemy Course
   - [x] Downloading and Setting up Xcode
 - [x] Read **5** pgs from "Clean Code" (pg 55 - 60)
   - [x] Started Chapter 4: Comments (cont...)
@@ -1312,7 +1312,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 85: 30 Apr. Tuesday
 
-- Did **1** module of Section 1 on [iOS 12 App Development Bootcamp] Udemy Course
+- [x] Did **1** module of Section 1 on [iOS 12 App Development Bootcamp] Udemy Course
   - [x] A Walkthrough of the Xcode Dev Environment.
 - [x] Read **2** pgs from "Clean Code" (pg 60 - 62)
   - [x] Chapter 4: Comments (cont...)
@@ -1326,11 +1326,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 86: 01 May. Wednesday
 
-- ...
+- [x] Finished **Section 1** & started **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+- [x] Read **12** pgs from "Clean Code" (pg 62 - 74)
+  - [x] Finished Chapter 4: Comments
+- [x] Started working on issue-307 for "webpack-blocks" repo
+- [x] Continue working on my personal and shareable eslint-config-dantesolis
 
-**Thoughts:** None
+**Thoughts:** Nice and busy day today 💪. Falling in love with the Swift language.
 
-**Link to work:** None
+**Link to work:** Check log.
   
 - - -
 
