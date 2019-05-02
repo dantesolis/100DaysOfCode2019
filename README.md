@@ -1340,7 +1340,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 87: 02 May. Thursday
 
-- ...
+- [x] Read **10** pgs from "Clean Code" (pg 75 - 85)
+  - [x] Started Chapter 5: Formatting
 
 **Thoughts:** None
 
