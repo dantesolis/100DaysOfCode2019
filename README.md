@@ -1351,7 +1351,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 88: 03 May. Friday
 
-- ...
+- [x] Read **2** pgs from "Clean Code" (pg 86 - 88)
+  - [x] Continued Chapter 5: Formatting
+- [x] Watched **2** modules of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] User Interface with Storyboards
 
 **Thoughts:** None
 
