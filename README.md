@@ -1364,7 +1364,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 89: 04 May. Saturday
 
-- ...
+- [x] Read **3** pgs from "Clean Code" (pg 89 - 92)
+  - [x] Finished Chapter 5: Formatting
 
 **Thoughts:** None
 
