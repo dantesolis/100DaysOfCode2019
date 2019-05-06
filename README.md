@@ -1384,4 +1384,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   
 - - -
 
+### Day 91: 06 May. Monday
+
+- [x] Read **5** pgs from "Clean Code" (pg 93 - 98)
+  - [x] Started Chapter 6: Objects and Data Structures
+
+**Thoughts:** Sick as 💩. Going to hybernate/recharge now.
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
