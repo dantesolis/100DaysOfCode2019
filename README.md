@@ -1395,4 +1395,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 92: 07 May. Tuesday
+
+- [x] Read **1** pgs from "Clean Code" (pg 99 - 100)
+  - [x] Continue Chapter 6: Objects and Data Structures
+
+**Thoughts:** Still sick as 💩. 1 page is all I could manage today.
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
