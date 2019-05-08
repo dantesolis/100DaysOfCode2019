@@ -1406,4 +1406,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 93: 08 May. Wednesday
+
+- [x] Managed to watched **1** modules of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] How to position User Interface (UI) Elements
+
+**Thoughts:** Energy left after that, so going back to the bed. I missed running 😔
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
