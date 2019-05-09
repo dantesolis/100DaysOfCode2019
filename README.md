@@ -1417,4 +1417,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 94: 09 May. Thursday
+
+- [x] Read **1** pgs from "Clean Code" (pg 100 - 102)
+  - [x] Finished Chapter 6: Objects and Data Structures
+
+**Thoughts:** Energy left after that, so going back to the bed. I missed running 😔
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
