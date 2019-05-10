@@ -1428,4 +1428,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 95: 10 May. Friday
+
+- [x] Read **1** pg from "Clean Code" (pg 103)
+  - [x] Chapter 7: Error Handling
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
