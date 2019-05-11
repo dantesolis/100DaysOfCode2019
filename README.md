@@ -1439,4 +1439,57 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 96: 11 May. Saturday
+
+- [x] Watched **1** module of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] How to Incorporate Image Assets into Xcode
+- [x] Read **2** pgs from "Clean Code" (pg 104 - 106)
+  - [x] Chapter 7: Error Handling
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 97: 12 May. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 98: 13 May. Monday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 99: 14 May. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 100: 15 May. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
