@@ -30,7 +30,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Total Days Done** ...
 
-**Days Extra to Add:** 10
+**Days Extra to Add:** 11
 
 - DAY OFF - 10 Feb. Sunday
 - DAY OFF - 16 Feb. Sunday
@@ -42,9 +42,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - DAY OFF - 07 Apr. Sunday
 - DAY OFF - 21 Apr. Sunday
 - DAY OFF - 05 May. Sunday
+- DAY OFF - 12 May. Sunday
 
 - - -
-  Total: 10
+  Total: 11
 
 ## Log
 
@@ -1454,7 +1455,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 97: 12 May. Sunday
 
-- ...
+- DAY OFF
 
 **Thoughts:** None
 
