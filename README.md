@@ -1465,7 +1465,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 98: 13 May. Monday
 
-- ...
+- [x] Read **1** pg from "Clean Code" (pg 106 - 107)
+  - [x] Continue reading Chapter 7: Error Handling
 
 **Thoughts:** None
 
