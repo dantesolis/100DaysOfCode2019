@@ -1480,7 +1480,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] Difference between ppi and px; designing iOS assets
   - [x] App Icon dimensions and a brief history of graphics
 
-**Thoughts:** None
+**Thoughts:** Will probably read "Clean Code" on the 🚌, but will add tomorrow.
 
 **Link to work:** None
 
