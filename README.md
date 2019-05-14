@@ -1476,7 +1476,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 99: 14 May. Tuesday
 
-- ...
+- [x] Watched **2** module of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] Difference between ppi and px; designing iOS assets
+  - [x] App Icon dimensions and a brief history of graphics
 
 **Thoughts:** None
 
