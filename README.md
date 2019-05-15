@@ -1488,11 +1488,17 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 100: 15 May. Wednesday
 
-- ...
+- [x] Watched **3** modules of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] Finished *Section 2*
+- [x] Finished a sketch design for a friend's business card . View it [sketch-cloud](https://sketch.cloud/s/dblrE)
+- [x] Worked on a `sort-and-shuffle-array-cli`. View [code-sandbox](https://codesandbox.io/s/9l7mjj4n7p?autoresize=1). Need some test and to finish it.
+- [x] Read **3** pgs from "Clean Code" (pg 107 - 110)
+  - [x] Continued Chapter 7: Error Handling
+- [x] Tired now so going to eat 🥘 and rest now 🛌
 
-**Thoughts:** None
+**Thoughts:** This is exactly why I love learning new things, I've been racking my head how to run an ios app on my mobile device without needing to have an Apple Developer Account and TIL about "Sideloading iOS".
 
-**Link to work:** None
+**Link to work:** Various
 
 - - -
 
