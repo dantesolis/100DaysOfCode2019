@@ -1502,4 +1502,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 101: 16 May. Thursday
+
+- [x] Worked and finish a calculate-availability-cli in Node. Missing tests though.
+
+**Thoughts:** Busy working/life day today. Will be posting the codesandbox link tomorrow.
+
+**Link to work:** None
+
 Made with ❤️ &copy; 2019 D/S 💯
