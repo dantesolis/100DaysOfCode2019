@@ -1510,4 +1510,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 **Link to work:** None
 
+- - -
+
+### Day 102: 16 May. Friday
+
+- [x] Added a `switch/case` to the `calculate-availability-cli` in Node. Missing tests though.
+
+**Thoughts:** Not so great of a day.
+
+**Link to work:** Here is the [codesandbox](https://codesandbox.io/embed/availabilitycli-rqol1?codemirror=1&eslint=1&expanddevtools=1&fontsize=14&previewwindow=tests) or the [jsfiddle](https://jsfiddle.net/intercoder/gbvqtk2x/31/)
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
