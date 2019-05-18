@@ -1528,9 +1528,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] Finished *Section 3* and Started **Section 4**
     - [x] Sideloading on iOS and over the air sideloading
     - [x] Coding Challenges.
-- [x] Read **3** pgs from "Clean Code" (pg 107 - 110)
+- [x] Read **1** pg from "Clean Code" (pg 110 -111)
   - [x] Continued Chapter 7: Error Handling
-- [x] Tired now so going to eat 🥘 and rest now 🛌  
 
 **Thoughts:** None
 
