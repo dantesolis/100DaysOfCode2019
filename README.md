@@ -1522,4 +1522,30 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 103: 17 May. Saturday
+
+- [x] Watched **3** modules of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
+  - [x] Finished *Section 3* and Started **Section 4**
+    - [x] Sideloading on iOS and over the air sideloading
+    - [x] Coding Challenges.
+- [x] Read **3** pgs from "Clean Code" (pg 107 - 110)
+  - [x] Continued Chapter 7: Error Handling
+- [x] Tired now so going to eat 🥘 and rest now 🛌  
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 104: 18 May. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
