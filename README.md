@@ -43,9 +43,10 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - DAY OFF - 21 Apr. Sunday
 - DAY OFF - 05 May. Sunday
 - DAY OFF - 12 May. Sunday
+- DAY OFF - 19 May. Sunday
 
 - - -
-  Total: 11
+  Total: 12
 
 ## Log
 
@@ -1539,11 +1540,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 104: 18 May. Sunday
 
-- ...
-
-**Thoughts:** None
-
-**Link to work:** None
+- DAY OFF
 
 - - -
 
