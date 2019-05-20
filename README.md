@@ -1546,7 +1546,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 105: 20 May. Monday
 
-- ...
+- Worked on a `sort-and-shuffle-array-cli` (or `fika-cli` on the codesandbox) while on the bus 🚌 to Paris.
+- Finished my first blog post. 🕺 🙌 
 
 - - -
 
