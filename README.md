@@ -1513,7 +1513,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
-### Day 102: 16 May. Friday
+### Day 102: 17 May. Friday
 
 - [x] Added a `switch/case` to the `calculate-availability-cli` in Node. Missing tests though.
 
@@ -1523,7 +1523,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
-### Day 103: 17 May. Saturday
+### Day 103: 18 May. Saturday
 
 - [x] Watched **3** modules of **Section 2** on "iOS 12 App Development Bootcamp" Udemy Course
   - [x] Finished *Section 3* and Started **Section 4**
@@ -1538,9 +1538,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
-### Day 104: 18 May. Sunday
+### Day 104: 19 May. Sunday
 
 - DAY OFF
+
+- - -
+
+### Day 105: 20 May. Monday
+
+- ...
 
 - - -
 
