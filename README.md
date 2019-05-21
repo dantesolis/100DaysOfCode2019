@@ -1551,4 +1551,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+## Day 106: 21 May. Tuesday
+
+- [x] Read **2** pgs from "Clean Code" (pg 111 -113)
+  - [x] Finished Chapter 7: Error Handling
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
