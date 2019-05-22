@@ -1558,4 +1558,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 107: 22 May. Wednesday
+
+- [x] Read **2** pgs from "Clean Code" (pg 113 -115)
+  - [x] Started Chapter 8: Boundaries
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
