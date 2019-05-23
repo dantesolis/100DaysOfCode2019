@@ -1565,4 +1565,17 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 108: 23 May. Thursday
+
+- [x] Read **5** pgs from "Clean Code" (pg 115 -120)
+  - [x] Finished Chapter 8: Boundaries 🤘 💪 🙂
+
+- - -
+
+### Day 109: 24 May. Friday
+
+- ...
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
