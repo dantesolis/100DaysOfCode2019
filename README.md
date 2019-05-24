@@ -1574,7 +1574,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 109: 24 May. Friday
 
-- ...
+- [x] Read **10** pgs from "Clean Code" (pg 120 -130)
+  - [x] Chapter 9: Unit Tests
 
 - - -
 
