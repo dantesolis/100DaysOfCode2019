@@ -1579,4 +1579,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 110: 25 May. Saturday
+
+- [x] Read **5** pgs from "Clean Code" (pg 135 -140)
+  - [x] Finished Chapter 9: Unit Tests
+  - [x] Chapter 10: Classes
+
+**Thoughts:** The fact that the chapter about "Error Handling" is by far my least favorite one as of yet, points me to the fact that I should probably re read it again. 🤔
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
