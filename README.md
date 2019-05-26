@@ -1589,4 +1589,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 111: 26 May. Sunday
+
+- [x] Read **5** pgs from "Clean Code" (pg 140 - 145)
+  - [x] Chapter 10: Classes
+
+  > "How small should classes need to be?...small and then smaller than that."
+
+**Thoughts:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
