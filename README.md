@@ -1600,4 +1600,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 112: 27 May. Monday
+
+- [x] Read **5** pgs from "Clean Code" (pg 145 - 150)
+  - [x] Finished Chapter 10: Classes
+- [x] Finished **Section 4** of the "iOS 12 & Swift" Udemy Course
+  - [x] 1st Coding Challenge: "I Am Poor" app.
+- [x] Work on Framer X prototype for personal blog.
+
+**Thoughts:** None at the moment, will be coming. 💪 😁
+
 Made with ❤️ &copy; 2019 D/S 💯
