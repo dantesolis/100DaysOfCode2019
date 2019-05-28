@@ -1612,7 +1612,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
-# Day 113: 28 May. Tuesday
+### Day 113: 28 May. Tuesday
 
 - [x] Read **10** pgs from "Clean Code" (pg 150 - 160)
   - [x] Chapter 10: Systems
