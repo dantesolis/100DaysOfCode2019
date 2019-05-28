@@ -1610,4 +1610,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 **Thoughts:** None at the moment, will be coming. 💪 😁
 
+- - -
+
+# Day 113: 28 May. Tuesday
+
+- [x] Read **10** pgs from "Clean Code" (pg 150 - 160)
+  - [x] Chapter 10: Systems
+
+> "It's a myth that we can get systems "right the first time". Instead, we should implement today's stories, then refactor and expand the system to implement new stories tomorrow." - 'Clean Code'
+
+**Thoughts:** Who doesn't like storytelling ⛺️🔥🙂 ?
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
