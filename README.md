@@ -1625,11 +1625,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 114: 29 May. Wednesday
 
-- [x] Started Section 5 of "iOS 12 & Swift" Udemy Course
+- [x] Started **Section 5** of "iOS 12 & Swift" Udemy Course
   - [x] Designing a "Dice" App
 - [x] Did *5 modules* of FCC (FreeCodeCamp)
-  - [x] 2 module on CSS Flexbox
-  - [x] 3 modules on Javascript Algorithms
+  - [x] **2** module on CSS Flexbox
+  - [x] **3** modules on Javascript Algorithms
 - [x] Worked on an availability-cli. I'm having some fun with this 😄
   
 **Thoughts:** This is going to be good
