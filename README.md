@@ -1640,11 +1640,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 115: 30 May. Thursday
 
-- [ ] ...
+- [x] Read **12** pgs from "Clean Code" (pg 160 - 172)
+  -[x] Finished "Chapter 10: Systems", started "Chapter 11: Emergence"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** None
 
 - - -
 
