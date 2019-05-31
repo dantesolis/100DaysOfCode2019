@@ -1615,7 +1615,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 113: 28 May. Tuesday
 
 - [x] Read **10** pgs from "Clean Code" (pg 150 - 160)
-  - [x] Chapter 10: Systems
+  - [x] Chapter 11: Systems
 
 > "It's a myth that we can get systems "right the first time". Instead, we should implement today's stories, then refactor and expand the system to implement new stories tomorrow." - 'Clean Code'
 
@@ -1641,7 +1641,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 115: 30 May. Thursday
 
 - [x] Read **12** pgs from "Clean Code" (pg 160 - 172)
-  -[x] Finished "Chapter 10: Systems", started "Chapter 11: Emergence"
+  -[x] Finished "Chapter 11: Systems", started "Chapter 12: Emergence"
 
 **Thoughts:** None
 
@@ -1654,9 +1654,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] Did *5 modules* of FCC (FreeCodeCamp)
   - [x] **3** module on CSS Flexbox
   - [x] **2** modules on Javascript Algorithms
-- [x] Read **...** pgs from "Clean Code" (pg 172 - ...)
-  -[x] Finished "Chapter 11: Emergence"  
-  -[x] Started "Chapter 12: Concurrency"
+- [x] Read **4** pgs from "Clean Code" (pg 172 - 176)
+  -[x] Finished "Chapter 12: Emergence"  
+  -[x] Started "Chapter 13: Concurrency"
 - [x] Designing the animations of blog on Framer X
 
 **Thoughts:** Now to go and meet some friends for 🍣 😋.
