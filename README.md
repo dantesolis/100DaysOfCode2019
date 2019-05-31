@@ -1651,11 +1651,17 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 116: 31 May. Friday
 
-- [ ] ...
+- [x] Did *5 modules* of FCC (FreeCodeCamp)
+  - [x] **3** module on CSS Flexbox
+  - [x] **2** modules on Javascript Algorithms
+- [x] Read **...** pgs from "Clean Code" (pg 172 - ...)
+  -[x] Finished "Chapter 11: Emergence"  
+  -[x] Started "Chapter 12: Concurrency"
+- [x] Designing the animations of blog on Framer X
 
-**Thoughts:** ...
+**Thoughts:** Now to go and meet some friends for 🍣 😋.
 
-**Link:** ...
+**Link:** None
 
 - - -
 
@@ -1678,4 +1684,5 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Link:** ...
 
 - - -
+
 Made with ❤️ &copy; 2019 D/S 💯
