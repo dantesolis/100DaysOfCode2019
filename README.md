@@ -1667,11 +1667,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 117: 01 June. Saturday
 
-- [ ] ...
+- [x] Did **3** modules on CSS Flexbox on FCC
+- [x] Read **1** pg from "Clean Code" (pg 176 - 177)
+  -[x] Started "Chapter 13: Concurrency"
 
-**Thoughts:** ...
+**Thoughts:** Most probably will read more than today, but since I'll be with friends all day today, let me get something small out of the way.
 
-**Link:** ...
+**Link:** None
 
 - - -
 
