@@ -1679,11 +1679,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 118: 02 June. Sunday
 
-- [ ] ...
+- [x] Read **5** pg from "Clean Code" (pg 177 - 182)
+  -[x] "Chapter 13: Concurrency"
 
-**Thoughts:** ...
+**Thoughts:** Socially spent. going to cave 🏔👴 now
 
-**Link:** ...
+**Link:** None
 
 - - -
 
