@@ -1688,4 +1688,80 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 119: 03 June. Monday
+
+- [x] Read **5** pg from "Clean Code" (pg 182 - 187)
+  -[x] "Chapter 13: Concurrency"
+- [x] Did **5** modules on CSS Flexbox on FCC
+  - [x] **3** module on CSS Flexbox
+  - [x] **2** modules on Javascript Algorithms
+- [x] Continue working on my future blog prototype on FramerX
+  - [x] Created a switch, and pulsating logo component on FramerX using react hooks. 😍 React hooks for effects and state.
+
+**Thoughts:** Didn't have time to do 1 video of iOS BootCamp but will tackle that tomorrow. 😨
+
+**Link:** None
+
+- - -
+
+### Day 120: 04 June. Tuesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
+### Day 121: 05 June. Wednesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
+### Day 122: 06 June. Thursday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
+### Day 123: 07 June. Friday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
+### Day 124: 08 June. Saturday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
+### Day 125: 09 June. Sunday
+
+- ...
+
+**Thoughts:** ...
+
+**Link:** ...
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
