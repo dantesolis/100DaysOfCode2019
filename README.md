@@ -1711,7 +1711,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] Read **7** pg from "Clean Code" (pg 187 - 194)
   -[x] Finished  "Chapter 13: Concurrency"
   -[x] Started  "Chapter 14: Successive Refinement"
-- [x] Continued working on the `availability-cli`. Takes user input.
+- [x] Continued working on the `availability-cli` nodejs. Takes user input.
 
 **Thoughts:** None
 
