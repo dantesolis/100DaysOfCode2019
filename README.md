@@ -1706,11 +1706,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 120: 04 June. Tuesday
 
-- ...
+- [x] Did *5 modules* on FCC (FreeCodeCamp)
+  - [x] Finished the CSS Flexbox section
+- [x] Read **7** pg from "Clean Code" (pg 187 - 194)
+  -[x] Finished  "Chapter 13: Concurrency"
+  -[x] Started  "Chapter 14: Successive Refinement"
+- [x] Continued working on the `availability-cli`. Takes user input.
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** To come
 
 - - -
 
