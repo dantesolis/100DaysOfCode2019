@@ -1721,11 +1721,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 121: 05 June. Wednesday
 
-- ...
+- [x] Continued working on the `availability-cli` nodejs.
+  - [x] Added types and a function check on the prompt.
+- [x] Completed testimonial cards on Framer X for `availability-cli`'s Readme
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** None
 
 - - -
 
