@@ -26,27 +26,26 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 **Start Date** 06 Feb. 2019
 
-**End Date** ...
+**End Date** Let see how far I get 😃
 
-**Total Days Done** ...
+**Total Days Done** On Day 122 at the moment and counting. Took 12 days off overall (Sundays) as "Day OFF"
 
-**Days Extra to Add:** 11
+**Days Extra to Add:** 12 if I count the days off for the Sundays I have taken.
 
-- DAY OFF - 10 Feb. Sunday
-- DAY OFF - 16 Feb. Sunday
-- DAY OFF - 24 Feb. Sunday
-- DAY OFF - 03 Mar. Sunday
-- DAY OFF - 17 Mar. Sunday
-- DAY OFF - 24 Mar. Sunday
-- DAY OFF - 31 Mar. Sunday
-- DAY OFF - 07 Apr. Sunday
-- DAY OFF - 21 Apr. Sunday
-- DAY OFF - 05 May. Sunday
-- DAY OFF - 12 May. Sunday
-- DAY OFF - 19 May. Sunday
+**Things Completed So Far:**
 
-- - -
-  Total: 12
+- [ ] node-js `availability-cli` [IN PROGRESS]
+- [ ] Complete iOS 12 & Swift Bootcamp on Udemy [IN PROGRESS]
+- [x] You Don't Know JS Book 3: "This & Object Prototypes" (~04/2019)
+- [ ] Clean Code [IN PROGRESS]
+- [x] CSS Grids on FCC (~04/2019)
+- [x] CSS Flexbox on FCC (~05/2019)
+- [x] Responsive Web Design Principles
+- [ ] JS Algorigthms & Data Structures on FCC [IN PROGRESS]
+- [x] Organized & presented the 1st `FramerX` Brussel Meetup: "Introduction to FramerX" (~04/2019)
+- [ ] Organized 2nd `FramerX` Brussel Meetup: "Animating Prototypes" (~06/2019)
+- [x] Blog Post: "Difference between NodeJs dependencies" on Medium and Dev.to (~05/2019)
+- [ ] ...
 
 ## Log
 
@@ -74,8 +73,8 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 - Read one page of Chapter 2 YDKJS Book 3: "This & Object Prototypes"
 - `this` All Makes Sense Now
-    - Nothing but rules
-      - [x]  Default Binding
+  - Nothing but rules
+    - [x]  Default Binding
 
 **Thoughts:** Will like to write a blog post after I finish the chapter.
 
