@@ -1733,6 +1733,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 122: 06 June. Thursday
 
 - [x] Added the "chalk" js pkg to the nodejs "availability-cli". Now able to pretty print to the console. Almost done with this 💪 🙌
+- [x] Did **2** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
 
 **Thoughts:** Trying to go to go to bed at a reasonable time today; 22hr30 🛌 😴
 
