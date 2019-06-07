@@ -1744,11 +1744,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 123: 07 June. Friday
 
-- ...
+- [x] **2** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] Designing Your App.
+- [x] Read **18** pgs from "Clean Code" (pg 194 - 212)
+  -[x] "Chapter 14: Successive Refinement"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** None
 
 - - -
 
