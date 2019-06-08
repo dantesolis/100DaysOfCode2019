@@ -1759,11 +1759,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 124: 08 June. Saturday
 
-- ...
+- [x] Read **2** pgs from "Clean Code" (pg 212 - 214)
+  -[x] Continued reading "Chapter 14: Successive Refinement"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** None
 
 - - -
 
