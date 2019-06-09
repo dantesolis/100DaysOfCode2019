@@ -41,7 +41,7 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 - [x] CSS Grids on FCC (~04/2019)
 - [x] CSS Flexbox on FCC (~05/2019)
 - [x] Responsive Web Design Principles
-- [ ] JS Algorigthms & Data Structures on FCC [IN PROGRESS]
+- [ ] JS Algorithms & Data Structures on FCC [IN PROGRESS]
 - [x] Organized & presented the 1st `FramerX` Brussel Meetup: "Introduction to FramerX" (~04/2019)
 - [ ] Organized 2nd `FramerX` Brussel Meetup: "Animating Prototypes" (~06/2019)
 - [x] Blog Post: "Difference between NodeJs dependencies" on Medium and Dev.to (~05/2019)
@@ -1773,7 +1773,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] Read **6** pgs from "Clean Code" (pg 214 - 220)
   -[x] Continued reading "Chapter 14: Successive Refinement"
 - [x] Added tests, eslint, prettier, flow-typed definitions to the availability-cli. Now just need to publish the darn thing 🙃.
-- [x] Finished minutes and [typeform](https://intercoder.typeform.com/to/B4NAyf) for FramerX event on June 25th: ["Animating Prototypes"](https://www.meetup.com/Brussels-FramerX/events/261012966/)  
+- [x] Finished minutes and [typeform](https://intercoder.typeform.com/to/B4NAyf) for FramerX event on June 25th: ["Animating Prototypes"](https://www.meetup.com/Brussels-FramerX/events/261012966/)
 
 **Thoughts:** None
 
