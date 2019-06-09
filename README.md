@@ -1770,11 +1770,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 125: 09 June. Sunday
 
-- ...
+- [x] Read **6** pgs from "Clean Code" (pg 214 - 220)
+  -[x] Continued reading "Chapter 14: Successive Refinement"
+- [x] Added tests, eslint, prettier, flow-typed definitions to the availability-cli. Now just need to publish the darn thing 🙃.
+- [x] Finished minutes and [typeform](https://intercoder.typeform.com/to/B4NAyf) for FramerX event on June 25th: ["Animating Prototypes"](https://www.meetup.com/Brussels-FramerX/events/261012966/)  
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link:** ...
+**Link:** None
 
 - - -
 
