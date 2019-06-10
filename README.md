@@ -349,11 +349,13 @@ console.assert(count(100) === 0, "Wrong"); // <= Wrong
 
 - Read 3pgs YDKJS Book 3 (26 - 29) 
 - [x] Determining `this`: Rules of `this`
+
   ```js
     // order of priority for determining what `this` refers to on  
     // call-site
     new binding => explicit binding => implicit binding => default binding
   ```
+
 - [x] Binding exceptions
 
 **Thoughts:** None
@@ -1778,6 +1780,81 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 **Thoughts:** None
 
 **Link:** None
+
+- - -
+
+### Day 126: 10 June. Monday
+
+- [x] Watched **3** videos of "ThingsMade" FramerX youtube channel
+  - [x] Preparing content for meetup
+- [x] Watched **2** videos of "React for Design" another Framer X resources
+- [x] Prepared content for FramerX meetup
+- [x] Read **16** pgs from "Clean Code" (pg 220 - 236)
+  -[x] Continued reading "Chapter 14: Successive Refinement"
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 127: 11 June. Tuesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 128: 12 June. Wednesday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 129: 13 June. Thursday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 130: 14 June. Friday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 131: 15 June. Saturday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 132: 16 June. Sunday
+
+- ...
+
+**Thoughts:** ...
+
+**Link to work:** ...
 
 - - -
 
