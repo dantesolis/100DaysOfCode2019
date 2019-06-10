@@ -1786,7 +1786,6 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 ### Day 126: 10 June. Monday
 
 - [x] Watched **3** videos of "ThingsMade" FramerX youtube channel
-  - [x] Preparing content for meetup
 - [x] Watched **2** videos of "React for Design" another Framer X resources
 - [x] Prepared content for FramerX meetup
 - [x] Read **16** pgs from "Clean Code" (pg 220 - 236)
