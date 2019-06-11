@@ -1799,11 +1799,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 127: 11 June. Tuesday
 
-- ...
+- [x] Read **1** pgs from "Clean Code" (pg 236 - 237)
+  -[x] Continued reading "Chapter 14: Successive Refinement"
 
-**Thoughts:** ...
+**Thoughts:** None. Spent some time with friends. DOing life and 💩. It was nice.
 
-**Link to work:** ...
+**Link to work:** None.
 
 - - -
 
