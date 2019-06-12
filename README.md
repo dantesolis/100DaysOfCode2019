@@ -1810,11 +1810,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 128: 12 June. Wednesday
 
-- ...
+- [x] Read **15** pgs from "Clean Code" (pg 237 - 252)
+  -[x] Finished "Chapter 14: Successive Refinement"
+  -[x] Started "Chapter 15: JUnit"
+- [x] Created another prototype for the upcoming FramerX: "Animating Prototypes" meetup
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
