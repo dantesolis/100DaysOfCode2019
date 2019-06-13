@@ -1823,11 +1823,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 129: 13 June. Thursday
 
-- ...
+- [x] Read **1** pg from "Clean Code" (pg 252 - 253)
+  -[x] Continued on "Chapter 15: JUnit"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
