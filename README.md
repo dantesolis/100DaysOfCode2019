@@ -1837,7 +1837,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] Read **10** pg from "Clean Code" (pg 253 - 263)
   -[x] Continued on "Chapter 15: JUnit"
 
-**Thoughts:** None
+**Thoughts:** None. Tired today. Hitting the sack now.
 
 **Link to work:** None
 
