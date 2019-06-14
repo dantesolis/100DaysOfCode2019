@@ -1834,11 +1834,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 130: 14 June. Friday
 
-- ...
+- [x] Read **10** pg from "Clean Code" (pg 253 - 263)
+  -[x] Continued on "Chapter 15: JUnit"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
