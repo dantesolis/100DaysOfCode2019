@@ -1845,11 +1845,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 131: 15 June. Saturday
 
-- ...
+- [x] Did **5** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+- [x] Continued working on btn-set prototype for upcoming FramerX meetup. 2 Prototypes done. 3 more to go.
 
-**Thoughts:** ...
+**Thoughts:** Really loving FramerX 😍
 
-**Link to work:** ...
+**Link to work:** None at the moment
 
 - - -
 
