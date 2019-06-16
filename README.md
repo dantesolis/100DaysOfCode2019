@@ -1857,11 +1857,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 132: 16 June. Sunday
 
-- ...
+- DAY OFF. 🏃 + 📚 + 🍿
 
-**Thoughts:** ...
+**Thoughts:** DAY OFF
 
-**Link to work:** ...
+**Link to work:** DAY OFF
 
 - - -
 
