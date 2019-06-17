@@ -1865,4 +1865,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 133: 17 June. Monday
+
+- [x] Did **1** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+
+**Thoughts:** Busy busy day today. So didn't do much today.
+
+**Link to work:** None
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
