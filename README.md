@@ -1867,10 +1867,23 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 133: 17 June. Monday
 
-- [x] Did **1** modules on FCC (FreeCodeCamp)
+- [x] Did **1** module on FCC (FreeCodeCamp)
   - [x] Javascript Algorithms & Data Structures
 
 **Thoughts:** Busy busy day today. So didn't do much today.
+
+**Link to work:** None
+
+- - -
+
+### Day 134: 18 June. Tuesday
+
+- [x] Did **1** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+- [x] Read **2** pgs from "Clean Code" (pg 263 - 265)
+  -[x] Finished "Chapter 15: JUnit"
+
+**Thoughts:** Another busy busy day. Where do my hours go?
 
 **Link to work:** None
 
