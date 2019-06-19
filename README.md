@@ -1893,11 +1893,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - [x] Did **3** modules on FCC (FreeCodeCamp)
   - [x] Javascript Algorithms & Data Structures
-- [ ]...
+- [x] Completed 2 prototypes for the FramerX Meetup. Working on the 3rd one.
 
-**Thoughts:** ...
+**Thoughts:** Time to go an eat and rest.
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
