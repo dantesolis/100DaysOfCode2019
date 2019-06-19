@@ -1889,4 +1889,56 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - - -
 
+### Day 135: 19 June. Wednesday
+
+- [x] Did **3** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+- [ ]...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 136: 20 June. Thursday
+
+- [ ]...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 137: 21 June. Friday
+
+- [ ]...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 138: 22 June. Saturday
+
+- [ ]...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
+### Day 139: 23 June. Sunday
+
+- [ ]...
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+- - -
+
 Made with ❤️ &copy; 2019 D/S 💯
