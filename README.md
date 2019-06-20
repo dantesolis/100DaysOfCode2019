@@ -1903,11 +1903,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 136: 20 June. Thursday
 
-- [ ]...
+- [x] Did **2** modules on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
+- [x] Read **5** pgs from "Clean Code" (pg 265 - 270)
+  -[x] Started reading "Chapter 16: Refactoring SerialDate (java)"
+- [x] Worked on another prototype for the upcoming Framer X: Animating Prototypes Meetup
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
