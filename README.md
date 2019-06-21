@@ -1917,11 +1917,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 137: 21 June. Friday
 
-- [ ]...
+- [x] Did **1** module on FCC (FreeCodeCamp)
+  - [x] Javascript Algorithms & Data Structures
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
