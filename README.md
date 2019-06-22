@@ -1928,11 +1928,19 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 138: 22 June. Saturday
 
-- [ ]...
+- [x] Did **3** modules on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] Linking Design with Code.
+- [x] Finished Prototypes for upcoming FramerX: Animating
+  - [x] Smurf Me (Animations, Data, Overrides Example)
+  - [x] Btn set (Animations, Data, Overrides Example)
+  - [x] Stories v1 proto (Paging Example)
+  - [x] Blog v1 & v2,
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
