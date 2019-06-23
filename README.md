@@ -1946,7 +1946,17 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 139: 23 June. Sunday
 
-- [ ]...
+- [x] Created repo and slides for the Framer X: Animating Prototype workshop.
+
+**Thoughts:** Using `mdx-decks` and loving it 😀. Next time might try keynote.
+
+**Link to work:** None
+
+- - -
+
+# Day 140: 24 June. Monday
+
+- [ ] ...
 
 **Thoughts:** ...
 
