@@ -1956,11 +1956,15 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 # Day 140: 24 June. Monday
 
-- [ ] ...
+- [x] Did **1** modules on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] Continued working on the slides for the Framer X Meetup
+- [x] Read **2** pgs from "Clean Code" (pg 270 - 272)
+  -[x] "Chapter 16: Refactoring SerialDate (java)"
 
-**Thoughts:** ...
+**Thoughts:** None
 
-**Link to work:** ...
+**Link to work:** None
 
 - - -
 
