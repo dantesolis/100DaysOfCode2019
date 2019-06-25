@@ -1970,7 +1970,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 141: 25 June. Tuesday
 
-- [ ] ...
+- [x] Did **1** module on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] Hosted and presented on Framer X Brussel Meetup group.
 
 **Thoughts:** None
 
