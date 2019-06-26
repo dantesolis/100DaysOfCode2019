@@ -1982,7 +1982,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 142: 26 June. Wednesday
 
-- [ ] ...
+- [x] Did **1** module on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] Cleaned out the cards and "Testimonials" section for `wastedtime cli` (previously availability cli).
 
 **Thoughts:** None
 
