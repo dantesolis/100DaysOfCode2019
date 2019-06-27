@@ -1994,7 +1994,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 143: 27 June. Thursday
 
-- [ ] ...
+- [x] Did **2** modules on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] Completed the Readme for `wastedtime cli` and made the repo public on github. Now just need to publish to npm.
 
 **Thoughts:** None
 
