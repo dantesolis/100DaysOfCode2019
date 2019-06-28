@@ -2006,7 +2006,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 144: 28 June. Friday
 
-- [ ] ...
+- [x] Did **2** modules on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] Did **1** video on "AI for Everyone" (Coursera Course)
+  - [x] Intro
 
 **Thoughts:** None
 
