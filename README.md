@@ -2019,7 +2019,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 145: 29 June. Saturday
 
-- [ ] ...
+- [x] Read **2** pgs from "Clean Code" (pg 273 - 275)
+  -[x] "Chapter 16: Refactoring SerialDate (java)"
+- [x] Did **1** module on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
 
 **Thoughts:** None
 
@@ -2029,7 +2032,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 146: 30 June. Sunday
 
-- Self Imposed Mandatory DAY OFF. 😄
+- Self Imposed Mandatory DAY OFF. 😄 🚶‍ 📚  🛋
 
 **Thoughts:** DAY OFF
 
