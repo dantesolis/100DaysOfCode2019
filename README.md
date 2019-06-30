@@ -2032,7 +2032,12 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 146: 30 June. Sunday
 
-- Self Imposed Mandatory DAY OFF. 😄 🚶‍ 📚  🛋
+- [x] **1** module on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+- [x] **1** module on "AI for Everyone" (Coursera Course)
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] Not Key Value Coding Compliant
+- [x] Fix problem with publishing `wastedtime`. Now to fix the executable.
 
 **Thoughts:** DAY OFF
 
