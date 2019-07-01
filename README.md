@@ -2036,12 +2036,86 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] JS Algorithms & Data Structures
 - [x] **1** module on "AI for Everyone" (Coursera Course)
 - [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
-  - [x] Not Key Value Coding Compliant
+  - [x] Not Key Value Coding Compliant Error
 - [x] Fix problem with publishing `wastedtime`. Now to fix the executable.
 
-**Thoughts:** DAY OFF
+**Thoughts:** None
 
-**Link to work:** DAY OFF
+**Link to work:** None
+
+- - -
+
+### Day 147: 01 July. Monday
+
+- [x] **2** module on FCC (FreeCodeCamp)
+  - [x] JS Algorithms & Data Structures
+  - [x] Basic Algorithm Scripting
+- [x] **1** module on "AI for Everyone" (CC)
+  - [x] What is data ?
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 148: 02 July. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 149: 03 July. Wednesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 150: 04 July. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 151: 05 July. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 152: 06 July. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 153: 07 July. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
 
 - - -
 
