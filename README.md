@@ -2052,6 +2052,8 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] Basic Algorithm Scripting
 - [x] **1** module on "AI for Everyone" (CC)
   - [x] What is data ?
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] Randomisation numbers in Swift
 
 **Thoughts:** None
 
