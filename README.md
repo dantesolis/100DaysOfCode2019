@@ -2063,7 +2063,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 148: 02 July. Tuesday
 
-- ...
+- [x] **1** module on FCC
+  - [x] JS Algorithms & Data Structures
+- [x] **1** module on "AI for Everyone" (CC)
+  - [x] AI terminology ?
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] `let`, `var` and `const` in Swift
+- [x] Read **5** pgs from "Clean Code" (pg 275 - 280)
+  -[x] "Chapter 16: Refactoring SerialDate (java)"
 
 **Thoughts:** None
 
