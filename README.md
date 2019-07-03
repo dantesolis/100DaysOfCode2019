@@ -2080,7 +2080,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 149: 03 July. Wednesday
 
-- ...
+- [x] **2** modules on FCC
+  - [x] JS Algorithms & Data Structures
+- [x] **1** module on "AI for Everyone" (CC)
+  - [x] What makes an AI company ?
+- [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
+  - [x] Programmatically update the Display
+- [x] Started working on the `flow type lib` definitions for `Inquirer` npm pkg
 
 **Thoughts:** None
 
@@ -2119,6 +2125,16 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - - -
 
 ### Day 153: 07 July. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 154: 08 July. Monday
 
 - ...
 
