@@ -2083,7 +2083,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] **2** modules on FCC
   - [x] JS Algorithms & Data Structures
 - [x] **1** module on "AI for Everyone" (CC)
-  - [x] What makes an AI company ?
+  - [x] What ML can do and not do ?
 - [x] **1** module of **Section 5** on the "iOS 12 & Swift" Udemy Course
   - [x] Programmatically update the Display
 - [x] Started working on the `flow type lib` definitions for `Inquirer` npm pkg
@@ -2096,7 +2096,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 150: 04 July. Thursday
 
-- ...
+- [x] **2** modules on FCC
+  - [x] JS Algorithms & Data Structures
+- [x] **1** module on "AI for Everyone" (CC)
+  - [x] What makes an AI company ?
+- [x] Finished **Section 5** and started **Section 6** on the "iOS 12 & Swift" UC
+- [x] On **Section 6** on the "iOS 12 & Swift" UC
+  - [x] Create your own 🎱 app
 
 **Thoughts:** None
 
