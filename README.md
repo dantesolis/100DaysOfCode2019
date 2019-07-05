@@ -2112,7 +2112,14 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 151: 05 July. Friday
 
-- ...
+- [x] **2** modules on FCC
+  - [x] JS Algorithms & Data Structures
+- [x] Finished Section **1** on "AI for Everyone" (CC)
+- [x] **Section 6** "iOS 12 & Swift" UC
+  - [x] Read requirements for creating your own magic 🎱 ball swift app.
+- [x] Working through the React Native: Advanced Concepts Udemy Course (UC)
+  - [x] OTP Authentication.
+- [x] Drew mockups for personal site, as well another silly project site 🎨 ️️📃 ✍️
 
 **Thoughts:** None
 
