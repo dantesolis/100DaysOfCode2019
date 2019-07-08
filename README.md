@@ -2152,6 +2152,9 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - [x] **3** modules on FCC
   - [x] JS Algorithms & Data Structures
   - [x] Data visualization with D3
+- [x] Started Section **2** on "AI for Everyone" (CC)  
+- [x] Working through the React Native: Advanced Concepts Udemy Course (UC)
+  - [x] OTP Authentication.  
 
 **Thoughts:** None
 
