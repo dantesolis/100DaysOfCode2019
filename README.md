@@ -2129,7 +2129,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 152: 06 July. Saturday
 
-- ...
+- DAY OFF
 
 **Thoughts:** None
 
@@ -2139,7 +2139,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 153: 07 July. Sunday
 
-- ...
+- DAY OFF
 
 **Thoughts:** None
 
@@ -2148,6 +2148,28 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - - -
 
 ### Day 154: 08 July. Monday
+
+- [x] **3** modules on FCC
+  - [x] JS Algorithms & Data Structures
+  - [x] Data visualization with D3
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 155: 09 July. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 156: 10 July. Wednesday
 
 - ...
 
