@@ -2154,7 +2154,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
   - [x] Data visualization with D3
 - [x] Started Section **2** on "AI for Everyone" (CC)  
 - [x] Working through the React Native: Advanced Concepts Udemy Course (UC)
-  - [x] OTP Authentication.  
+  - [x] OTP Authentication.
 
 **Thoughts:** None
 
@@ -2164,7 +2164,13 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 155: 09 July. Tuesday
 
-- ...
+- [x] **1** module on "AI for Everyone" (CC)
+  - [x] Workflow of a Data Science
+- [x] React Native: Advanced Concepts Udemy Course (UC)
+  - [x] Finished OTP Authentication.
+- [x] Read **6** pgs from "Clean Code" (pg 280 - 286)
+  -[x] Finished "Chapter 16: Refactoring SerialDate (java)"
+  -[x] Started "Chapter 17: Smells and Heuristics"
 
 **Thoughts:** None
 
