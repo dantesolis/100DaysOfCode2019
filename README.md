@@ -2180,6 +2180,79 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 156: 10 July. Wednesday
 
+- [x] **1** module on "AI for Everyone" (CC)
+- [x] **3** modules on FCC
+  - [x] JS Algorithms & Data Structures
+  - [x] Data visualization with D3
+  
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 157: 11 July. Thursday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 158: 12 July. Friday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 159: 13 July. Saturday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 160: 14 July. Sunday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 161: 15 July. Monday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 162: 16 July. Tuesday
+
+- ...
+
+**Thoughts:** None
+
+**Link to work:** None
+
+- - -
+
+### Day 163: 17 July. Wednesday
+
 - ...
 
 **Thoughts:** None
