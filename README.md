@@ -2207,7 +2207,10 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 158: 12 July. Friday
 
-- ...
+- [x] **1** module on **Section 2** "AI for Everyone" (CC)
+- [x] CodeBites `String.endsWith`
+- [x] Read **4** pgs from "Clean Code" (pg 286 - 290)
+  -[x] Started "Chapter 17: Smells and Heuristics"
 
 **Thoughts:** None
 
