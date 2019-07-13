@@ -2219,7 +2219,11 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 ### Day 159: 13 July. Saturday
 
-- ...
+- [x] **1** module on **Section 2** "AI for Everyone" (CC)
+- [x] Will be reading "Clean Code" as I'm on the bus later tonight. I'll add the pages later tonight
+
+Easy Day today cause trying to learn `rust` => cargo imnotgettingit 😱, but liking the instructive error msgs 😄
+Board Game Night tonight at friends 💪
 
 **Thoughts:** None
 
