@@ -2209,7 +2209,7 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 
 - [x] **1** module on **Section 2** "AI for Everyone" (CC)
 - [x] Read **4** pgs from "Clean Code" (pg 286 - 290)
-  -[x] Started "Chapter 17: Smells and Heuristics"
+  -[x] "Chapter 17: Smells and Heuristics"
 
 **Thoughts:** None
 
@@ -2233,7 +2233,10 @@ Board Game Night tonight at friends 💪
 
 ### Day 160: 14 July. Sunday
 
-- ...
+- [x] **3** modules on FCC
+  - [x] **3** Data visualization with D3
+- [x] Read **1** pg from "Clean Code" (pg 286 - 290)
+  -[x] "Chapter 17: Smells and Heuristics"
 
 **Thoughts:** None
 
