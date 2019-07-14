@@ -2233,10 +2233,8 @@ Board Game Night tonight at friends 💪
 
 ### Day 160: 14 July. Sunday
 
-- [x] **3** modules on FCC
-  - [x] **3** Data visualization with D3
-- [x] Read **1** pg from "Clean Code" (pg 286 - 290)
-  -[x] "Chapter 17: Smells and Heuristics"
+- [x]*3* modules on Data visualisation with D3 (FCC)
+- [x] Read *1* pg from “Clean Code”  Ch. 17 “Smells and Heuristics” (pg 290 - 291)
 
 **Thoughts:** None
 
