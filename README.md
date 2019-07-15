@@ -2192,8 +2192,6 @@ Had read these last night 🚌 🙇‍ 📖, but adding it to the log today.
 - - -
 
 ### Day 157: 11 July. Thursday
-
-- [x] **1** module on "AI for Everyone" (CC)
 - [x] **5** modules on FCC
   - [x] **2** JS Algorithms & Data Structures
   - [x] **3** Data visualization with D3
@@ -2244,7 +2242,11 @@ Board Game Night tonight at friends 💪
 
 ### Day 161: 15 July. Monday
 
-- ...
+- [x] **4** modules on FCC
+  - [x] **2** JS Algorithms & Data Structures
+  - [x] **2** Data visualization with D3
+- [x] Read *1* pg from “Clean Code”  Ch. 17 “Smells and Heuristics” (pg 291 - 292)
+- [x] **1** module on **Section 2** "AI for Everyone" (CC)
 
 **Thoughts:** None
 
