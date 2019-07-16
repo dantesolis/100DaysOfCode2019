@@ -2256,7 +2256,10 @@ Board Game Night tonight at friends 💪
 
 ### Day 162: 16 July. Tuesday
 
-- ...
+- [x] **3** modules on FCC
+  - [x] **2** JS Algorithms & Data Structures
+  - [x] **1** Data visualization with D3
+- [x] **1** module on **Section 2** "AI for Everyone" (CC)
 
 **Thoughts:** None
 
