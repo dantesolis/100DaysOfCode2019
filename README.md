@@ -2269,9 +2269,9 @@ Board Game Night tonight at friends 💪
 
 ### Day 163: 17 July. Wednesday
 
-- ...
+- [x] Started **Section 3** "AI for Everyone" (CC)
 
-**Thoughts:** None
+**Thoughts:** Busy but amazing day today.
 
 **Link to work:** None
 
