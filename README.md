@@ -2293,7 +2293,10 @@ Board Game Night tonight at friends 💪
 
 ### Day 165: 19 July. Friday
 
-- ...
+- [x] **2** modules on FCC
+  - [x] **1** JS Algorithms & Data Structures
+  - [x] **1** Data visualization with D3
+- [x] Read *5* pg from “Clean Code”  Ch. 17 “Smells and Heuristics” (pg 292 - 297)
 
 **Thoughts:** None
 
