@@ -2291,7 +2291,7 @@ Board Game Night tonight at friends 💪
 
 - - -
 
-### Day 165: 19 July. Saturday
+### Day 165: 19 July. Friday
 
 - ...
 
@@ -2301,7 +2301,7 @@ Board Game Night tonight at friends 💪
 
 - - -
 
-### Day 166: 20 July. Sunday
+### Day 166: 20 July. Saturday
 
 - ...
 
@@ -2311,7 +2311,7 @@ Board Game Night tonight at friends 💪
 
 - - -
 
-### Day 167: 21 July. Monday
+### Day 167: 21 July. Sunday
 
 - ...
 
@@ -2321,7 +2321,7 @@ Board Game Night tonight at friends 💪
 
 - - -
 
-### Day 168: 22 July. Tuesday
+### Day 168: 22 July. Monday
 
 - ...
 
@@ -2331,7 +2331,7 @@ Board Game Night tonight at friends 💪
 
 - - -
 
-### Day 169: 23 July. Wednesday
+### Day 169: 23 July. Tuesday
 
 - ...
 
