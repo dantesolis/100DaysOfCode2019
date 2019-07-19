@@ -2279,7 +2279,11 @@ Board Game Night tonight at friends 💪
 
 ### Day 164: 18 July. Thursday
 
-- ...
+- [x] **2** modules on FCC
+  - [x] **1** JS Algorithms & Data Structures
+  - [x] **1** Data visualization with D3
+- [x] **1** module on **Section 3** "AI for Everyone" (CC)
+- [x] Started "AWS IoT: The Hobbyists Guide to Home Automation" SkillShare (SS)
 
 **Thoughts:** None
 
